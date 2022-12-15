@@ -1,0 +1,149 @@
+# level may be from 1-8
+# level 1 is a street gang
+# level 2 is a 
+# level 3 is a 
+# level 4 is a 
+# level 5 is a 
+# level 6 is a 
+# level 7 is a planetary government
+# level 8 is a regional government/coalition
+|level=3|
+
+:Start
+1,Name:
+_Hit Points: {Dice~3d6*%level%}
+_Force Rating: %level%
+_Cunning Rating: {Dice~1d8}
+_Wealth Rating: {Dice~2d8+%level%/3}
+_Faction Credits: 
+_Homeworld:
+_Tags: [Tag], [Tag]
+
+
+
+;~Tag
+1,Colonists
+1,Deep Rooted in homeworld
+1,Eugenics Cult
+1,Exchange Consulate
+1,Fanatical
+1,Imperialists
+1,Machiavellian
+1,Mercenary Group
+1,Perimeter Agency
+1,Pirates
+1,Planeteray Govt
+1,Plutocratic
+1,Preceptor Archive
+1,Psychic Acedemy
+1,Savage
+1,Scavengers
+1,Secretive
+1,Technical Expertise
+1,Theocratic
+1,Warlike
+
+;Cunning Asset
+# Level 1
+1,Smugglers
+1,Informers
+1,False Front
+1,Base of Influence
+# Level 2
+1,Lobbyist
+1,Saboteurs
+1,Blackmail
+1,Seductress
+# Level 3
+1,Cyberninjas
+1,Stealth
+1,Covert Shipping
+# Level 4
+1,Party Machine
+1,Vanguard Cadres
+1,Tripwire Cells
+1,Seditionists
+# Level 5
+1,Organization Moles
+1,Cracked Comms
+1,Boltholes
+# Level 6
+1,Transport Lockdown
+1,Covert Transit Net
+1,Demagogue
+# Level 7
+1,Popular Movement
+1,Book of Secrets
+1,Treachery
+# Level 8
+1,Panopticon Matrix
+
+;Force Asset
+# Level 1
+1,Security Personell
+1,Hitmen
+1,Militia Unit
+1,Base of Influence
+# Level 2
+1,Heavy Drop Assets
+1,Elite Skirmishers
+1,Hardened Personnel
+1,Guerrilla Populace
+# Level 3
+1,Zealots
+1,Cunning Trap
+1,Counterintel Unit
+# Level 4
+1,Beachhead Landers
+1,Extended Theater
+1,Strike Fleet
+1,Postech Infantry
+# Level 5
+1,Blockade Fleet
+1,Pretech Logistics
+1,Psychic Assasins
+# Level 6
+1,Pretech Infantry
+1,Planetery Defenses
+1,Gravtank Formation
+# Level 7
+1,Deep Strike Landers
+1,Integral Protocols
+1,Space Marines
+# Level 8
+1,Capital Fleet
+
+;Wealth Asset
+# Level 1
+1,Franchise
+1,Harvesters
+1,Local Investments
+1,Base of Influence
+# Level 2
+1,Freighter Contract
+1,Lawyers
+1,Union Toughs
+1,Surveyors
+# Level 3
+1,Postech Industry
+1,Laboratory
+1,Mercenaries
+# Level 4
+1,Shipping Combine
+1,Monopoly
+1,Medical Center
+1,Bank
+# Level 5
+1,Marketers
+1,Pretech Researchers
+1,Blockade Runners
+# Level 6
+1,Venture Capital
+1,R&D Department
+1,Commodities Broker
+# Level 7
+1,Pretech Manufactury
+1,Hostile Takeover
+1,Transit Web
+# Level 8
+1,Scavenger Fleet

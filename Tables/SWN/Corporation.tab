@@ -1,0 +1,219 @@
+
+;Start
+1,Name: [Name]
+_Organization: [Organization]
+_Business: [Business]
+_ReputationAndRumor: [RR]
+
+
+;Name
+1,Ad Astra
+1,Berfoods
+1,Blackburn Systems
+1,Blue Sun
+1,Buy n Large
+1,Byrdtides CIC
+1,Colonial
+1,Compass
+1,Dante Labs
+1,Daybreak
+1,Duvav & sons
+1,Epsilon
+1,Frontier
+1,Gamma Renewables
+1,Gan'usbook Produce
+1,GeneCo
+1,Gizmodo
+1,Godfrey Biomed
+1,Guo Yin
+1,Hanso
+1,Highbeam
+1,Imani
+1,Interstellar
+1,Magnus
+1,Meteor
+1,Neogen
+1,New Dawn
+1,Noeus Group
+1,Omni Consumer
+1,Omnitech
+1,Optimum
+1,Outertech
+1,Overwatch
+1,Panstellar
+1,Pasteur Fitness
+1,PharmaKom
+1,Pinehurst
+1,Protectors
+1,Sacmedia
+1,Scarakaway Global
+1,Shogun
+1,Silverlight
+1,Soylent
+1,Spiker
+1,Stella
+1,Striker
+1,Sunbeam
+1,TOL Electrics
+1,[Acronym][Acronym][Acronym]
+1,Tashpidortemic Industrial
+1,Teppidor of Thaeran
+1,Terra Prime
+1,Than Dokarniaustry Chemicals
+1,Veidt
+1,Verne Co
+1,Wanonine Security
+1,Wasp Inc
+1,Wayfarer
+1,Wellix LLP
+1,West Wind
+1,Weyland-Yutani
+1,Whatfar of Banborto
+1,Wolfram and Hart
+1,YKA
+1,Yoyodyne Propulsion Systems
+1,Zapata Aggregates
+1,Zenith
+1,Zoerg
+1,Norinco
+1,Textron
+1,DCNX
+1,Sweetgood
+1,United Shipyards
+1,Safrax
+1,[Acronym]{Dice~1d12}
+
+;Acronym
+1,A
+1,B
+1,C
+1,D
+1,E
+1,F
+1,G
+1,H
+1,I
+1,J
+1,K
+1,L
+1,M
+1,N
+1,O
+1,P
+1,Q
+1,R
+1,S
+1,T
+1,U
+1,V
+1,W
+1,X
+1,Y
+1,Z
+
+;Organization
+1,Alliance
+1,Association
+1,Band
+1,Circle
+1,Clan
+1,Combine
+1,Company
+1,Cooperative
+1,Corporation
+1,Enterprises
+1,Faction
+1,Group
+1,Megacorp
+1,Multistellar
+1,Organization
+1,Outfit
+1,Pact
+1,Partnership
+1,Ring
+1,Society
+1,Sodality
+1,Syndicate
+1,Union
+1,Unity
+1,Zaibatsu
+
+;Business
+1,Aeronautics
+1,Agriculture
+1,Art
+1,Assassination
+1,Asteroid Mining
+1,Astrotech
+1,Biotech
+1,Bootlegging
+1,Computer Hardware
+1,Construction
+1,Cybernetics
+1,Electronics
+1,Energy Weapons
+1,Entertainment
+1,Espionage
+1,Exploration
+1,Fishing
+1,Fuel Refining
+1,Gambling
+1,Gemstones
+1,Gengineering
+1,Grav Vehicles
+1,Heavy Weapons
+1,Ideology
+1,Illicit Drugs
+1,Journalism
+1,Law Enforcement
+1,Liquor
+1,Livestock
+1,Maltech
+1,Mercenary Work
+1,Metallurgy
+1,Pharmaceuticals
+1,Piracy
+1,Planetary Mining
+1,Plastics
+1,Pretech
+1,Prisons
+1,Programming
+1,Projectile Guns
+1,Prostitution
+1,Psionics
+1,Psitech
+1,Robotics
+1,Security
+1,Shipyards
+1,Snacks
+1,Software, AIs
+1,Software, Agricultural
+1,Software, Personal
+1,Software, Ships Computers
+1,Starport Management
+1,Telcoms/Networks
+1,Transport
+1,Xenotech
+1,Luxury Trade
+
+;RR
+1,Reckless with the lives of their employees
+1,Have a dark secret about their board of directors
+1,Notoriously xenophobic towards aliens
+1,Lost much money to an embezzler who evaded arrest
+1,Reliable and trustworthy goods
+1,Stole a lot of R&D from a rival corporation
+1,They have high-level political connections
+1,Rumored cover-up of a massive industrial accident
+1,Stodgy and very conservative in their business plans
+1,Stodgy and very conservative in their business plans
+1,The company's owner is dangerously insane
+1,Rumored ties to a eugenics cult
+1,Said to have a cache of pretech equipment
+1,Possibly teetering on the edge of bankruptcy
+1,Front for a planetary government’s espionage arm
+1,Secretly run by a psychic cabal
+1,Secretly run by hostile aliens
+1,Secretly run by an unbraked AI
+1,They’ve turned over a new leaf with the new CEO
+1,Deeply entangled with the planetary underworld

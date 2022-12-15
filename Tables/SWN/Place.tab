@@ -1,0 +1,270 @@
+
+;Start
+1,[Urban]
+1,[Wilderness]
+
+
+;Urban
+1,Place            :
+_Hazard           : [Hazard]
+_Ongoings         : [UrbanOngoings]
+_Reward           : [Reward]
+
+;Wilderness
+1,Place            :
+_Hazard           : [Hazard]
+_Ongoings         : [WildernessOngoings]
+_Reward           : [Reward]
+
+
+
+;Hazard
+1,[Social]
+1,[Legal]
+1,[Environmental]
+1,[Trap]
+1,[Animal]
+1,[Sentient]
+1,[Decay]
+1,[PC]
+
+# Social Hazard
+;Social
+1,Hazard           : Social
+_Specific Example : [SocialExample]
+_Possible Danger  : [SocialDanger]
+
+;SocialExample
+1,An explosively temperamental VIP
+1,An unknown but critical social taboo
+1,A case of mistaken identity
+1,An expectation for specific PC action
+1,A frame job hung on the PCs
+
+;SocialDanger
+1,An allied NPC breaks ties
+1,An enemy is alerted to them
+1,A new enemy is made
+1,Cads think the PCs are allies
+1,An opportunity is lost
+
+# Legal Hazard
+;Legal
+1,Hazard           : Legal
+_Specific Example : [LegalExample]
+_Possible Danger  : [LegalDanger]
+
+;LegalExample
+1,A regulation unknown to the PCs
+1,A tax or confiscation
+1,Vital gear is prohibited here
+1,Lawsuit from an aggrieved NPC
+1,A state agent conscripts PC help
+
+;LegalDanger
+1,Substantial monetary fine
+1,Imprisonment for the party
+1,Confiscation of possessions
+1,Deportation from the place
+1,Loss of rights and protections
+
+# Environmental Hazard
+;Environmental
+1,Hazard           : Environmental
+_Specific Example : [EnvironmentalExample]
+_Possible Danger  : [EnvironmentalDanger]
+
+
+;EnvironmentalExample
+1,Heavy background radiation
+1,A planetary sickness foreigners get
+1,Strong or weak local gravity
+1,Gear-eating microbial life
+1,Unpredictable psychic power field
+
+;EnvironmentalDanger
+1,Catch a lingering disease
+1,Suffer bodily harm
+1,Take a penalty on rolls
+1,Lose some equipment
+1,Psychic abilities are altered
+
+# Trap Hazard
+;Trap
+1,Hazard           : Trap
+_Specific Example : [TrapExample]
+_Possible Danger  : [TrapDanger]
+
+
+;TrapExample
+1,Alarm system attached to a trap
+1,Snare left for local animals
+1,Hermit's self-defense measure
+1,Long-dead builder's trapsmithing
+1,New occupant's defensive trap
+
+;TrapDanger
+1,Something set on fire
+1,Guards are summoned
+1,Fall to a new area
+1,Equipment is damaged
+1,Subject is injured
+
+# Animal Hazard
+;Animal
+1,Hazard           : Animal
+_Specific Example : [AnimalExample]
+_Possible Danger  : [AnimalDanger]
+
+
+;AnimalExample
+1,Dangerous local swarm vermin
+1,A big predator lair
+1,Pack hunters haunt the area
+1,Flying threats pounce here
+1,Monstrous beast sleeps or is torpid
+
+;AnimalDanger
+1,They have a ranged attack
+1,They're venomous
+1,Dangerously coordinated foe
+1,Killing them inflicts a fine
+1,Their deaths cause an effect
+
+
+
+
+# Sentient Hazard
+;Sentient
+1,Hazard           : Sentient
+_Specific Example : [SentientExample]
+_Possible Danger  : [SentientDanger]
+
+
+;SentientExample
+1,A group hostile to intruders
+1,Trickster thieves and con-men
+1,Hostile expert-system robots
+1,Secrecy-loving rebels or criminals
+1,Another area-clearing group
+
+;SentientDanger
+1,Immediate combat
+1,Treacherous feigned friend
+1,Lead the PCs into a trap
+1,Demand payment or loot
+1,Activate other area defenses
+
+
+# Decay Hazard
+;Decay
+1,Hazard           : Decay
+_Specific Example : [DecayExample]
+_Possible Danger  : [DecayDanger]
+
+
+;DecayExample
+1,Crumbling floor or ceiling
+1,Waste or heating tubes rupture
+1,Dangerous standing liquid
+1,Maintenance robots gone haywire
+1,Power plant is unstable
+
+;DecayDanger
+1,Ruptures to release a peril
+1,Toxic or radioactive debris
+1,Explosive decompression
+1,Invisible or slow-acting toxin
+1,Fires or explosions
+
+
+# PC Hazard
+;PC
+1,Hazard           : PC-Induced
+_Specific Example : [PCExample]
+_Possible Danger  : [PCDanger]
+
+
+;PCExample
+1,Activating a system causes a disaster
+1,Catastrophic plan proposed by NPCs
+1,Removing loot triggers defenses
+1,Handling an object ruins it
+1,Leaving a thing open brings calamity
+
+
+;PCDanger
+1,Horrible vermin are admitted
+1,Local system goes berserk
+1,Something ruptures violently
+1,Ancient defenses awaken
+1,The PC's goal is imperiled
+
+
+;UrbanOngoings
+1,Local festival going on
+1,Angry street protests
+1,Minor fire or other disorder
+1,Merchants and peddlers active
+1,Tourists from another country
+1,Building repair or maintenance
+1,Recent vehicle crash
+1,Public art performance
+1,Angry traffic jam
+1,Missionaries for a local religion
+1,Loud advertising campaign
+1,Memorial service ongoing
+1,Road work halting traffic
+1,Power outage in the area
+1,Police chasing criminals
+1,Annoying drunks being loud
+1,Beggars seeking alms
+1,Constructing a new building
+1,Local thugs swaggering around
+1,Aerial light display
+
+
+;WildernessOngoings
+1,Bandits have moved in
+1,Flooding swept through
+1,Part of it has collapsed
+1,Refugees are hiding here
+1,Dangerous animals lair here
+1,A rebel cell uses it for a base
+1,Smugglers have landed here
+1,Foreign agents meet here
+1,A hermit has taken up residence
+1,A toxic plant is growing wild
+1,An artist seeks inspiration here
+1,An ancient structure was dug out
+1,The weather has turned savage
+1,A vehicle crashed nearby
+1,Some locals are badly lost
+1,Religious pilgrims come here
+1,Locals fight over control of it
+1,Nature threatens to wipe it out
+1,An old shrine was raised here
+1,A shell of a building remains
+
+
+;Reward
+1,Large cache of credits
+1,Precious cultural artifact
+1,Vital data on the party's goal
+1,Missing or kidnapped VIP
+1,Advanced pretech artifact
+1,Key to some guarded location
+1,Ancient treasure object
+1,Recently-stolen goods
+1,High-tech robotic servitor
+1,Token item of ruling legitimacy
+1,Juicy blackmail material
+1,History-rewriting evidence
+1,Alien artifact of great power
+1,Precious megacorp data files
+1,Map to some valuable thing
+1,Forbidden but precious drug
+1,Legal title to important land
+1,Awful secret of local government
+1,Cache of precious goods
+1,Stock of valuable weaponry

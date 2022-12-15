@@ -1,0 +1,175 @@
+
+
+;Start
+1,[Urban]
+1,[Wilderness]
+
+;Urban
+1,<table>
+_<tr><td>Urban Encounter</td><td> </td/></tr>
+_<tr><td>What's the Conflict About?</td><td> [UrbanConflict]</td/></tr>
+_<tr><td>General Venue of the Event</td><td> [UrbanVenue]</td/></tr>
+_<tr><td>Why are the PCs Involved?</td><td> [UrbanWhy]</td/></tr>
+_<tr><td>What's the Nature of the Event?</td><td> [UrbanNature]</td/></tr>
+_<tr><td>What Antagonists are Involved?</td><td> [UrbanAntagonist]</td/></tr>
+_<tr><td>Relevant Urban Features</td><td> [UrbanFeatures]</td/></tr>
+_</table>
+
+
+;UrbanConflict
+1,Money, extortion, payment due, debts
+1,Respect, submission to social authority
+1,Grudges, ethnic resentment, gang payback
+1,Politics, religion, or other ideology
+
+;UrbanVenue
+1,In the middle of the street
+1,In a public plaza
+1,Down a side alley
+1,Inside a local business
+1,Next to or in a public park
+1,At a mass-transit station
+
+;UrbanWhy
+1,A sympathetic participant appeals to them
+1,Ways around it are all dangerous/blocked
+1,It happens immediately around them
+1,A valuable thing looks snatchable amid it
+1,A participant offers a reward for help
+1,Someone mistakenly involves the PCs in it
+1,The seeming way out just leads deeper in
+1,Responsibility is somehow pinned on them
+
+;UrbanNature
+1,A parade or festival is being disrupted
+1,Innocents are being assaulted
+1,An establishment is being robbed
+1,A disturbance over local politics happens
+1,Someone is being blamed for something
+1,Fires or building collapses are happening
+1,A medical emergency is happening
+1,Someone's trying to cheat the PCs
+1,A vehicle accident is happening
+1,A religious ceremony is being disrupted
+
+;UrbanAntagonist
+1,A local bully and their thugs
+1,A ruthless political boss and their zealots
+1,Violent criminals
+1,Religious fanatics
+1,A blisteringly obnoxious offworlder
+1,Corrupt or over-strict government official
+1,A mob of intoxicated locals
+1,A ranting demagogue and their followers
+1,A stupidly bull-headed local grandee
+1,A very capable assassin or strong-arm
+1,A self-centered local scion of power
+1,A confused foreigner or backwoodsman
+
+
+;UrbanFeatures
+1,Heavy traffic running through the place
+1,Music blaring at deafening volumes
+1,Two groups present that detest each other
+1,Large delivery taking place right there
+1,Swarm of schoolkids or feral youth
+1,Insistent soapbox preacher here
+1,Several pickpockets working the crowd
+1,A kiosk is tipping over and spilling things
+1,Streetlights are out or visibility is low
+1,A cop patrol is here and reluctant to act
+1,PC-hostile reporters are recording here
+1,Someone’s trying to sell something to PCs
+1,Feral dogs or other animals crowd here
+1,Unrelated activists are protesting here
+1,Street kids are trying to steal from the PCs
+1,GPS maps are dangerously wrong here
+1,Downed power lines are a danger here
+1,Numerous open manholes and utility holes
+1,The street's blockaded by something
+1,Crowds so thick one can barely move
+
+
+
+;Wilderness
+1,<table>
+_<tr><td>Wilderness Encounter</td><td> </td>
+_<tr><td>Initial Encounter Range</td><td>[WildernessRange]</td>
+_<tr><td>Weather and Lighting</td><td>[WildernessWeather]</td>
+_<tr><td>Basic Nature of the Encounter</td><td>[WildernessNature]</td>
+_<tr><td>Types of Friendly Creatures</td><td>[WildernessFriend]</td>
+_<tr><td>Types of Hostile Creatures</td><td>[WildernessHostile]</td>
+_<tr><td>Specific Nearby Feature of Relevance</td><td>[WildernessFeature]</td>
+_</table>
+
+;WildernessRange
+1,Visible from a long distance away
+1,Noticed 1d4 hundred meters away
+1,Noticed only within 1d6 x 10 meters
+1,Noticed only when adjacent to the event
+
+;WildernessWeather
+1,Takes place in daylight and clear weather
+1,Daylight, but fog, mist, rain or the like
+1,Daylight, but harsh seasonal weather
+1,Night encounter, but clear weather
+1,Night, with rain or other obscuring effects
+1,Night, with terrible weather and wind
+
+;WildernessNature
+1,Attack by pack of hostiles
+1,Ambush by single lone hostile
+1,Meet people who don't want to be met
+1,Encounter people in need of aid
+1,Encounter hostile creatures
+1,Nearby feature is somehow dangerous
+1,Nearby feature promises useful loot
+1,Meet hostiles that aren't immediately so
+
+;WildernessFriend
+1,Affable but reclusive hermit
+1,Local herd animal let loose to graze
+1,Government ranger or circuit judge
+1,Curious local animal
+1,Remote homesteader and family
+1,Working trapper or hunter
+1,Back-country villager or native
+1,Hiker or wilderness tourist
+1,Religious recluse or holy person
+1,Impoverished social exile
+
+;WildernessHostile
+1,Bandits in their wilderness hideout
+1,Dangerous locals looking for easy marks
+1,Rabid or diseased large predator
+1,Pack of hungry hunting beasts
+1,Herd of potentially dangerous prey animals
+1,Swarm of dangerous vermin
+1,Criminal seeking to evade the law
+1,Brutal local landowner and their men
+1,Crazed hermit seeking enforced solitude
+1,Friendly-seeming guide into lethal danger
+1,Harmless-looking but dangerous beast
+1,Confidence man seeking to gull the PCs
+
+;WildernessFeature
+1,Overgrown homestead
+1,Stream prone to flash-flooding
+1,Narrow bridge or beam over deep cleft
+1,Box canyon with steep sides
+1,Unstable hillside that slides if disturbed
+1,Long-lost crash site of a gravflyer
+1,Once-inhabited cave or tunnel
+1,Steep and dangerous cliff
+1,Quicksand-laden swamp or dust pit
+1,Ruins of a ghost town or lost hamlet
+1,Hunting cabin with necessities
+1,Ill-tended graveyard of a lost family stead
+1,Narrow pass that's easily blocked
+1,Dilapidated resort building
+1,Remote government monitoring outpost
+1,Illicit substance farm or processing center
+1,Old and forgotten battleground
+1,Zone overrun by dangerous plants
+1,Thick growth that lights up at a spark
+1,Abandoned vehicle

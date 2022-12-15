@@ -1,0 +1,341 @@
+# Culture: Gang,
+;Start
+1,[Male] [Surname]
+1,[Female] [Surname]
+
+
+;Male
+1,Starport Steve
+1,4 Stroke
+1,AB
+1,Almighty Blood Messiah
+1,Ace of Spades
+1,Adonis
+1,Alik the Greek
+1,All City
+1,Animal
+1,Ant
+1,Artichoke King
+1,Baby Face
+1,Baby Gangster
+1,Baby-Shanks
+1,Bakha-Bakha
+1,Baldo
+1,Baldy Dom
+1,Bananas
+1,Barber
+1,Bats
+1,Benny Squint
+1,Biba
+1,Big Al
+1,Big Frank Nitti
+1,Big G
+1,Big Head
+1,Blaze
+1,Bloodhound
+1,Blue Eyes
+1,Bonafide
+1,Bondar
+1,Books
+1,Boot
+1,Bootsie
+1,Bouncer
+1,Bow Wow
+1,Boxcars
+1,Brains
+1,Bronx
+1,Bugs
+1,Bugsy
+1,Bull
+1,Bullet
+1,Bumpy
+1,Burnout
+1,Butterass
+1,Butterfingers
+1,Camel
+1,Caveman
+1,Channel 4
+1,Charles Heung
+1,Chee-Chee
+1,Chicken Man
+1,Chicken man
+1,Chin
+1,Chongo
+1,Clouds
+1,Clown
+1,Cool Daddy Cake
+1,Cranky
+1,Creeper
+1,Cruiser
+1,Cruzito
+1,Cuts
+1,Da Boss
+1,Dapper Don
+1,Dasher
+1,Demon
+1,Dentist
+1,Digger
+1,Dogs
+1,Dreads
+1,Droopy
+1,Easy Z
+1,El Chuey
+1,Endo
+1,Enforcer
+1,FUBAR
+1,Fangs
+1,Fast Trigger
+1,Fat Boy
+1,Fisherman
+1,Flames
+1,Fox
+1,Freckles
+1,Free Style
+1,Frosty
+1,Gangsta C
+1,Georgian
+1,Ghost
+1,Gizmo
+1,Goldie
+1,Grandpa Hussan
+1,Greasy Thumb
+1,Gremlin
+1,Grim Reaper
+1,Ha-Ha
+1,Happy
+1,Hatchet
+1,Head Busta
+1,Henry Fok
+1,Horseface
+1,Hoza
+1,Hsu Hai-ching
+1,Ice Box
+1,Ice Cube
+1,Ice T
+1,Iceman
+1,Icepick
+1,Jelly
+1,Joe Banana
+1,Johnny Sausage
+1,Joker
+1,Kermit
+1,Kid Blast
+1,Kid Twist
+1,Killing Machine
+1,Knots
+1,Kolya
+1,Lai Changxing
+1,Larry Fab
+1,Lasha Rustavsky
+1,Lil Loco
+1,Lil Man
+1,Lil’ Loco
+1,Lips
+1,Little Insane
+1,Little Nicky
+1,Little Red
+1,Liu Yong
+1,Lord High Executioner
+1,Lord Lenin
+1,Love Candy
+1,Lucky
+1,Machine Gun
+1,Mad Dog
+1,Mad Hatter
+1,Manic Maniac
+1,Master Blaster
+1,Matches
+1,Maverick
+1,Max
+1,Mega Flex
+1,Messiah
+1,Mickey the Cobra
+1,Midnight
+1,Miklo
+1,Minor
+1,Mom
+1,Monster
+1,Montana
+1,Mr Cisco
+1,Mr Scrappy
+1,Murda King
+1,Muscles
+1,Music Man
+1,Mussolini
+1,Nails
+1,Numbers
+1,O Dog
+1,O.G.
+1,Old Creepy
+1,Oso
+1,Otarik
+1,Paco Magic
+1,Paiyaso
+1,Pat the Cat
+1,Peanuts
+1,Pee Wee
+1,Pelon
+1,Phones
+1,Pistol Pete
+1,Pit Bull
+1,Playboy
+1,Plumber
+1,Popcorn
+1,Popoye
+1,Pretty Boy
+1,Princess
+1,Pzo
+1,Qiao Si
+1,Quack-Quack
+1,Quiet Godfather
+1,Rascal
+1,Razor
+1,Red Face
+1,Red Ryder
+1,Repo Girl
+1,Rifleman
+1,Roshan Lankaransky
+1,Sam Sings in the Night
+1,Scarface
+1,Scars
+1,Scratch
+1,Shadow
+1,Shaggy
+1,Shagro Junior
+1,Sharpie
+1,Shellackhead
+1,Shorty
+1,Silver Dollar
+1,Slingshot
+1,Smallville
+1,Smiley
+1,Smoke
+1,Snake
+1,Sneakers
+1,Sniper
+1,Socks
+1,Soft Hammer
+1,Sonny Black
+1,Spider
+1,Spoon
+1,Spyder
+1,Stacks
+1,Sticks
+1,Swifty
+1,T-Bone
+1,Taco
+1,Tank
+1,Taro
+1,Tarzan
+1,Teflon Don
+1,That Guy
+1,The Owl
+1,The Prophet
+1,The Reluctant Prine
+1,Three Fingers
+1,Tick-Tock
+1,Tonksku-Tom
+1,Toto
+1,Trigger Mike
+1,Two Holes
+1,Vixen
+1,Wadd
+1,Wan Kuok-koi
+1,Whack-Whack
+1,Wheels
+1,Wicked
+1,Wild Child
+1,Wild Man
+1,Witch
+1,Wolf
+1,Young G
+1,Yu Zuomin
+1,Zhang Ziqiang
+1,Zhou Guanglong
+1,Zookeeper
+
+
+
+
+;Female
+1,Baby One Punch
+1,Bad bitch
+1,Bear Trap
+1,Black Widow
+1,Chao
+1,Clumsy
+1,Cougar
+1,Dopey
+1,Flaco
+1,Foxy
+1,Ginger
+1,Ice Queen
+1,Joker
+1,Kiki
+1,Kinky
+1,Kitty
+1,La Giggles
+1,La Shy Girl
+1,Lil Tramposo
+1,Lil’ Loco
+1,Little Clown
+1,Little Puppet
+1,Mousey
+1,Murda Queen
+1,Pussy
+1,Red Stiletto
+1,Sharpies
+1,Shy Girl
+1,Smiler
+1,Snow Queen
+1,Spooky
+1,Tigress
+1,Travieso
+
+
+
+
+;Surname
+1,Andreas
+1,Argyros
+1,Dimitriou
+1,Floros
+1,Gavras
+1,Ioannidis
+1,Katsaros
+1,Kyrkos
+1,Leventis
+1,Makris
+1,Metaxas
+1,Nikolaidis
+1,Pallis
+1,Pappas
+1,Petrou
+1,Raptis
+1,Simonides
+1,Spiros
+1,Stavros
+1,Stephanidis
+1,Stratigos
+1,Terzis
+1,Theodorou
+1,Vasiliadis
+1,Yannakakis
+
+
+
+
+;Place
+1,Warehouse
+1,Diner
+1,Parking Lot
+1,Abandoned House
+1,Tenement 39
+1,Old School
+1,Scrap Yard
+1,Abandoned Building
+1,Mech Garage
+1,Shipyard
+1,Port
+
+

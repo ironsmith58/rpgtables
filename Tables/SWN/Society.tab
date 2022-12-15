@@ -1,0 +1,364 @@
+#SWN Society Generator
+
+
+:Start
+1,<H2>Society</H2>
+_[Origins]
+_[Rulers]
+_[CommonFolk]
+_[Flavor]
+
+
+:Origins
+1,<H3>Origins</H3>
+_[O4]
+_[O6]
+_[O8]
+_[O10]
+_[O12]
+_[O20]
+
+;O4
+<How old is the Society?&nbsp; &nbsp; 
+1,an ancient First Wave colony
+1,Founded during the Second Wave
+1,Founded sometime around the Scream
+1,Founded within the past century
+
+;O6
+<Prior cultures in this Area:&nbsp; &nbsp; 
+1,This culture has persisted since founding
+1,The culture has changed, but has continuity
+1,Founding group splintered, this is one heir
+1,Founding group collapsed and became this
+1,Founding group wiped out; new colonists
+1,Several founding groups before this
+
+;O8
+<Other societies on this World:&nbsp; &nbsp; 
+1,There is no other meaningful group here
+1,The society has significant sub-groups
+1,The society is a unified world government
+1,The only rivals have been conquered
+1,There are several minor rival nations
+1,There's at least one major planetary rival
+1,Alliances exist of semi-equal rival nations
+1,There are dozens of significant societies
+
+;O10
+<Main remnant of Prior Cultures:&nbsp; &nbsp; 
+1,Vital advanced tech was left behind
+1,Ritually important religious centers
+1,Dangerous ruins of high security areas
+1,Abandoned cities, now dangerous to enter
+1,Bunker caches of stored valuable and tech
+1,Massive megastructures of strange purpose
+1,Terraforming tech that needs maintenance
+1,Ethnic group with a grudge of some kind
+1,Bloodline of former rulers, resentful now
+1,Ancient resource extraction facilities
+
+
+;O12
+<Important Local Resource or Benefit:&nbsp; &nbsp; 
+1,Critical resources for making spike drives
+1,Nexus of interstellar spike drill routes
+1,Valuable alien tech relics or remnants
+1,Abundant food resources
+1,Important medical compound or extract
+1,Industry salvaged from a prior colony try
+1,Friendly alien population
+1,Valuable raw resources for luxury goods
+1,Local environment augments humans here
+1,Only semi-safe habitable place in the system
+1,Raw materials to maintain TL5 industry
+1,Important Mandate naval base site
+
+;O20
+<Original reason for Founding:&nbsp; &nbsp; 
+1,Castaways
+1,Corporate factory world
+1,Ethnic or national purity
+1,Excavation site
+1,Exiles from Old Terra or a losing regime
+1,Exotic genotype designed for here
+1,Homeworld overpopulation
+1,Invasion force
+1,Liaison outpost
+1,Mandate malcontents
+1,Military outpost
+1,Political liberty
+1,Precious export
+1,Prison planet
+1,Refueling outpost
+1,Religious liberty
+1,Research outpost
+1,Rich natural resources
+1,Social liberty
+1,Trade hub
+
+
+:Rulers
+1,<H3>Rulers</H3>
+_[R4]
+_[R6]
+_[R8]
+_[R10]
+_[R12]
+_[R20]
+
+;R4
+<How completely do they rule?&nbsp; &nbsp; 
+1,All aspects of life are touched by the rulers
+1,The rulers firmly control the populace
+1,The rulers control only critical elements
+1,The rulers have little control of the ruled
+
+;R6
+<General Security of Their Rule:&nbsp; &nbsp; 
+1,The rulers teeter on the brink of collapse
+1,The seem likely to fall
+1,They've recently overcome a real threat
+1,They have no serious threats to their rule
+1,No alternative is currently imaginable
+1,They've ruled undisputed for ages
+
+;R8
+<Main Source of Legitimacy:&nbsp; &nbsp; 
+1,A glorious bloodline or honored family
+1,Control of overwhelming martial force
+1,Popular support among a wide class
+1,Loyalty of a major ethnic/religious group
+1,Social compact among the ruled groups
+1,Possession of pretech artifacts
+1,Religiously legitimated sacredness
+1,Personal merit among the ruling class
+
+
+;R10
+<Main Conflict among the Ruling Class:&nbsp; &nbsp; 
+1,Peripheral elites against the central power
+1,Old leadership group deposed by the new one
+1,Dividing the profits of taxation or tribute
+1,Starting or stopping a current war
+1,"Reformists" with new ideas for control
+1,Sectarian religious groups struggle
+1,Expanding membership in the ruling class
+1,Enacting a major public building project
+1,Support for favored corporations/groups
+1,Dividing power and offices among them
+
+;R12
+<Basic Form of Rule:&nbsp; &nbsp; 
+1,Autocracy of a single popular ruler
+1,Corporatism among guilds/classes/corps
+1,Democracy, one sentient, one vote
+1,Feudalism, many near-free sub-rulers
+1,Hydraulic Despotism over a vital resource
+1,Military Dictatorship via martial force
+1,Monarchy, single ruler via bloodline
+1,Oligarchy of the society's powerful elite
+1,Republic of representative delegates
+1,Technocracy of intellectual elites
+1,Theocracy by the religious leadership
+1,Tribalism without structure beyond blood
+
+
+;R20
+<Main Conflict with Ruled Populace:&nbsp; &nbsp; 
+1,Their taxation is intolerably high
+1,Crimes against the ruled are ignored
+1,They trample their on cherished customs
+1,They hold the rules in obvious contempt
+1,The law is designed to favor them greatly
+1,They have immunity to onerous taxes
+1,Disrespect for common religious belief
+1,They failed or are failing in a recent war
+1,They waste taxes and labor on vain things
+1,Ways to enter the class have been removed
+1,The rulers are all of a different ethnicity
+1,They have different basic moral values
+1,The rulers ignore rights when it's useful
+1,They deposed former popular rulers
+1,State connections are vital to success
+1,They have fine ideas that ignore public will
+1,They have removed a prized ancient right
+1,They're seen as puppets of a hated group
+1,Their source of legitimacy is crumbling
+1,The leadership is deeply incompetent
+
+
+:CommonFolk
+1,<H3>Commoners</H3>
+_[C4]
+_[C6]
+_[C8]
+_[C10]
+_[C12]
+_[C20]
+
+;C4
+<How uniform is the Ruled Class?&nbsp; &nbsp; 
+1,They consider themselves a single group
+1,Two general groups or factions
+1,Many weakly-bounded sub-groups
+1,Many strong factions/ethnicity/classes
+
+;C6
+<How Content are the Rules?&nbsp; &nbsp; 
+1,There's an active insurgency or revolt
+1,They're going to revolt at any time
+1,Serious restiveness and regular troubles
+1,Generally content, with patches of trouble
+1,Widespread contentment or submission
+1,Only individual resistance, if even that
+
+;C8
+<Their Last major Threat to the Rulers:&nbsp; &nbsp; 
+1,A peasant uprising of the discontented proles
+1,New technology embraced by the bourgeois
+1,Religious schism threatening the state
+1,A dangerous popular demagogue arose
+1,Foreign-backed regional insurgency
+1,Civil war backing a deposed ruler or exile
+1,Mass reluctance to support a vital war
+1,A new political philosophy spread widely
+
+;C10
+<What Power to they have?&nbsp; &nbsp; 
+1,Strong guilds of common workers
+1,Powerful influence in the military
+1,Can get support from a rival power
+1,Local religion is largely on their side
+1,Their magnates have poor state relations
+1,Strong tradition of self-organized rule
+1,Keen unity in pursuit of their own interest
+1,A faction of the ruling class is their ally
+1,They control the states income stream
+1,The rulers dread the threat of revolt
+
+;C12
+<Main Conflict Inside the Ruled Class:&nbsp; &nbsp; 
+1,Harsh conflict between economic strata
+1,Substantial ethnic conflict and disunity
+1,Drastic changes in the local economy
+1,Competition to enter the ruling class
+1,Secessionist traditions or urges in a group
+1,Religious differences provoke trouble
+1,Regional identities are in conflict
+1,Formerly prosperous is embittered
+1,New economic opportunity is fought over
+1,Foreign influence is causing conflict
+1,A forceful social reform movement spreads
+1,An appealing mass delusion is growing
+
+;C20
+<Trends among the Ruled:&nbsp; &nbsp; 
+1,The rich are mimicking the ruling style
+1,Coordinated tax evasion or smuggling
+1,Methodical bribery or suborning officials
+1,Popular agitation for war with a rival
+1,Radical pro-traditional social movement
+1,A communistic insurgency is rising
+1,Fascist groups are gaining support
+1,A large, restless youth population grows
+1,Demagogues promote group tensions
+1,Embrace of "self-improving" tech or ways
+1,An artificial group identity is now rising
+1,Serious and widespread drug addiction
+1,De-facto chattel debt slavery is spreading
+1,The rich oppose threatening tech advances
+1,A sub-group is resented as the rulers pet
+1,A powerful colonial urge is in the populace
+1,A spirit if decadent ennui is pervasive
+1,Internal disputes are becoming bloody
+1,Progressive loss of faith in their culture
+
+
+:Flavor
+1,<H3>Flavor</H3>
+_[F4]
+_[F6]
+_[F8]
+_[F10]
+_[F12]
+_[F20]
+
+;F4
+<Society's Degree of Xenophilia:&nbsp; &nbsp; 
+1,Outsiders are distrusted and excluded
+1,Outsiders won't ever be real members
+1,Outsiders who try to blend can do so
+1,They welcome alien customs and people
+
+
+;F6
+<Treatment of Allowed Outsiders:&nbsp; &nbsp; 
+1,Outsiders are to be exploited ruthlessly
+1,Dealings are avoided whenever possible
+1,Constant small-scale exploitation with them
+1,They're treated like forgivably stupid locals
+1,Active efforts are made to accommodate
+
+;F8
+<Primary Societal Virtue:&nbsp; &nbsp; 
+1,Honesty;they shun deceit and lies
+1,Justice;the law is even-handedly enforced
+1,Courage;they are undaunted by danger
+1,Mercy;they are forgiving to the penitent
+1,Loyalty;they never forsake their own
+1,Learning;the love knowledge of all kinds
+1,Peace;they shun violence if at all possible
+1,Ingenuity;swift to embrace useful novelty
+
+;F10
+<Primary Societal Vice:&nbsp; &nbsp; 
+1,Hedonism;loving pleasure to much
+1,Corruption;venal rulers and officials
+1,Deceit;sweet lies over sour truths
+1,Fecklessness;no one will carry out a duty
+1,Nihilism;they truly believe in very little
+1,Greed;they want what others have
+1,Conquest;they seek glory in imperial war
+1,Despair;they have no faith in the future
+1,Hatred;they are consumed with hate
+1,Folly;they have a dangerously false idea
+
+;F12
+<Possible Patrons:&nbsp; &nbsp; 
+1,Official in need of deniable assets
+1,Underworld boss with a job for outsiders
+1,Outcast local whom no one else will help
+1,Local with wrong ideas about outsiders
+1,Secret agent of a rival planetary power
+1,Oppressed victim in need of help
+1,Outsider who can't get local aid
+1,Wealthy trader with starport ties
+1,Religious leader with doubts about locals
+1,Society grandee who needs quiet assistance
+1,Military or police official with secret work
+1,Fixer who's an agent for one of the above-[F12]
+
+;F20
+<Societal Customs and Quirks:&nbsp; &nbsp; 
+1,Local credits are worthless offworld
+1,Weaponry is unusually unrestricted
+1,Structures are very sturdy and defensible
+1,There is no planetary computer network
+1,Travel passes are needed for outsiders
+1,Local tech is troublesomely unreliable
+1,Outsiders have to perform favors to stay
+1,Only outsiders can do certain jobs
+1,Trade requires local guild permission
+1,Certain laws are suspended at certain times
+1,Only certain locals can talk to outsiders
+1,Sex or race segregation is strictly enforced
+1,Certain people are immune to legal action
+1,All visitors must obey the local faith
+1,Crimes can be commuted with cash fines
+1,The locals have bitter family vendettas
+1,Certain areas are strictly taboo for most
+1,Outsiders must have a state minder with them
+1,There are addictive substances in the food
+1,Certain art is desired but forbidden here
+

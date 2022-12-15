@@ -1,0 +1,900 @@
+;Start
+1,[Name]
+1,{Dice~4d12+10} [Name]
+1,[Name] {Dice~4d12+10}
+
+
+;Name
+1,40 Eridani
+1,Abyormen
+1,Acamar
+1,Achernar
+1,Acheron
+1,Acrab
+1,Acubens
+1,Adhafera
+1,Adhara
+1,Adhil
+1,Adib
+1,Aegus
+1,Aether
+1,Ahnooie-4
+1,Ain
+1,Aiur
+1,Aka
+1,Aladfar
+1,Alawaid
+1,Albali
+1,Alcarinque
+1,Alchibah
+1,Alcor
+1,Aldebaran
+1,Aldeian
+1,Alderaan
+1,Alderamin
+1,Aldhibah
+1,Aldhibain
+1,Aldulfin
+1,Alfirk
+1,Algebar
+1,Algedi
+1,Algenib
+1,Algieba
+1,Algol
+1,Algorab
+1,Alhena
+1,Alioth
+1,Alkaid
+1,Alkarinque
+1,Alkes
+1,Almak
+1,Almeisan
+1,Alnair
+1,Alnasl
+1,Alnilam
+1,Alnitak
+1,Alpha
+1,Alpha Andromedae
+1,Alpha Aquarii
+1,Alpha Aquilae
+1,Alpha Arietis
+1,Alpha Cancri
+1,Alpha Cassiopeiae
+1,Alpha Centauri
+1,Alpha Cephei
+1,Alpha Ceti
+1,Alpha Columbae
+1,Alpha Coronae Borealis
+1,Alpha Corvi
+1,Alpha Crateris
+1,Alpha Cygni
+1,Alpha Draconis
+1,Alpha Equulei
+1,Alpha Eridani
+1,Alpha Gruis
+1,Alpha Herculis
+1,Alpha Hydrae
+1,Alpha Leporis
+1,Alpha Librae
+1,Alpha Lyrae
+1,Alpha Ophiuchi
+1,Alpha Orionis
+1,Alpha Pegasi
+1,Alpha Persei
+1,Alpha Phoenicis
+1,Alpha Piscis Austrini
+1,Alpha Piscium
+1,Alpha Sagittarii
+1,Alpha Serpentis
+1,Alpha Tauri
+1,Alpha Trianguli
+1,Alpha Ursae Majoris
+1,Alpha Virginis
+1,Alpha2 Capricorni
+1,Alphard
+1,Alphecca
+1,Alpheratz
+1,Alrescha
+1,Alruba
+1,Alruba'
+1,Alsafi
+1,Alsephina
+1,Alsuhail
+1,Altair
+1,Altair IV
+1,Altais
+1,Altarf
+1,Alterf
+1,Aludra
+1,Alula Borealis
+1,Alwas
+1,Alya
+1,Amanga
+1,Amazo
+1,Ambar
+1,Anarres
+1,Andromeda Galaxy
+1,Angetenar
+1,Ankaa
+1,Anqa
+1,Anqa
+1,Phoenix
+1,Anubis
+1,Aquarius
+1,Aquas
+1,Aquila
+1,Arb
+1,Arcadia
+1,Arda
+1,Aries
+1,Arisia
+1,Ark
+1,Arkab
+1,Arlia
+1,Armaghast
+1,Arneb
+1,Arrakis
+1,Astra
+1,Athos
+1,Athshe
+1,Atik
+1,Atlantis
+1,Aurelia
+1,Auron
+1,Auva
+1,Axturias
+1,Azeroth
+1,Azfar Adib
+1,Azha
+1,Baab
+1,Baham
+1,Bajor
+1,Balaho
+1,Baloris
+1,Baltan
+1,Barathrum
+1,Barbary dove
+1,Barrayar
+1,Barsoom
+1,Bas-Lag
+1,Baten Kaitos
+1,Bazoik
+1,Beezee
+1,Beid
+1,Belzagor
+1,Benetnash
+1,Beowulf
+1,Bespin
+1,Beta Andromedae
+1,Beta Aquarii
+1,Beta Arietis
+1,Beta Aurigae
+1,Beta Boötis
+1,Beta Cancri
+1,Beta Canis Majoris
+1,Beta Canis Minoris
+1,Beta Capricorni
+1,Beta Cassiopeiae
+1,Beta Centauri
+1,Beta Cephei
+1,Beta Ceti
+1,Beta Columbae
+1,Beta Coronae Borealis
+1,Beta Draconis
+1,Beta Eridani
+1,Beta Leonis
+1,Beta Leporis
+1,Beta Librae
+1,Beta Lyrae
+1,Beta Ophiuchi
+1,Beta Orionis
+1,Beta Pegasi
+1,Beta Persei
+1,Beta Sagittarii
+1,Beta Scorpii
+1,Beta Tauri
+1,Beta Ursae Majoris
+1,Beta Ursae Minoris
+1,Beta Virginis
+1,Betelgeuse
+1,Beulah
+1,Bismoll
+1,Black Star
+1,Blue Sands
+1,Bog
+1,Bop
+1,Boskone
+1,Botein
+1,Braal
+1,Brontitall
+1,Bryyo
+1,Cadwal
+1,Caladan
+1,Calafia
+1,Camazotz
+1,Caph
+1,Caprica
+1,Capricornus
+1,Carnil
+1,Carnivalia
+1,Celbalrai
+1,Centauri
+1,Cepheus
+1,Cetaganda
+1,Chel
+1,Chort
+1,Chthon
+1,Clin
+1,Corneria
+1,Coruscant
+1,Corvus
+1,Covenant
+1,Crematoria
+1,Crete
+1,Crow
+1,Cursa
+1,Cybertron
+1,Cygnus
+1,Cygnus Alpha
+1,Cyteen
+1,Dabih
+1,Dada
+1,Dagobah
+1,Dar Sai
+1,Darkover
+1,Daxam
+1,Deemi
+1,Delta Aquarii
+1,Delta Arietis
+1,Delta Canis Majoris
+1,Delta Capricorni
+1,Delta Cassiopeiae
+1,Delta Corvi
+1,Delta Draconis
+1,Delta Geminorum
+1,Delta Ophiuchi
+1,Delta Orionis
+1,Delta Scorpii
+1,Delta Ursae Majoris
+1,Delta Velorum
+1,Delta Virginis
+1,Demeter
+1,Demon Star
+1,Deneb
+1,Deneb Algedi
+1,Deneb Dulfim
+1,Deneb Kaitos
+1,Denebola
+1,Denzi
+1,Dezoris
+1,Dhrawn
+1,Diphda
+1,Diso
+1,Doisac
+1,Dorsai
+1,Dosadi
+1,Dove
+1,Dragon
+1,Dragon's Egg
+1,Dres
+1,Druidia
+1,Dryad
+1,Dschubba
+1,Dubhe
+1,Dump
+1,Duna
+1,Durdane
+1,Dyan
+1,Dziban
+1,Ea
+1,Earendil
+1,Eayn
+1,Echronedal
+1,Edasich
+1,Eeloo
+1,El Nath
+1,Elemmire
+1,Ellicoore 2
+1,Eltanin
+1,Elysia
+1,Emerald
+1,Empyrrean
+1,Endor
+1,Enif
+1,Epsilon 3
+1,Epsilon Aquarii
+1,Epsilon Aurigae
+1,Epsilon Boötis
+1,Epsilon Cancri
+1,Epsilon Canis Majoris
+1,Epsilon Delphini
+1,Epsilon Geminorum
+1,Epsilon Leonis
+1,Epsilon Ophiuchi
+1,Epsilon Orionis
+1,Epsilon Pegasi
+1,Epsilon Sagittarii
+1,Epsilon Tauri
+1,Epsilon Ursae Majoris
+1,Eridanus
+1,Erna
+1,Errai
+1,Eta Boötis
+1,Eta Canis Majoris
+1,Eta Draconis
+1,Eta Eridani
+1,Eta Lyrae
+1,Eta Ophiuchi
+1,Eta Pegasi
+1,Eta Ursae Majoris
+1,Eta Virginis
+1,Etamin
+1,Etanin
+1,Eve
+1,Expel
+1,Exxilon
+1,Eylor
+1,Famille
+1,Fanbelt
+1,Far Away
+1,Fargett
+1,Fat-tailed sheep
+1,Fhloston
+1,Fichina
+1,Fiorina
+1,Flash
+1,Fomalhaut
+1,Fortuna
+1,Freeza 79
+1,Fribbulus Xax
+1,Friedland
+1,Frystaat
+1,Furud
+1,Galaxian 3
+1,Gallifrey
+1,Gamilon
+1,Gamilus
+1,Gamma Andromedae
+1,Gamma Aquarii
+1,Gamma Canis Majoris
+1,Gamma Capricorni
+1,Gamma Centauri
+1,Gamma Cephei
+1,Gamma Ceti
+1,Gamma Cygni
+1,Gamma Draconis
+1,Gamma Eridani
+1,Gamma Geminorum
+1,Gamma Leonis
+1,Gamma Librae
+1,Gamma Lyrae
+1,Gamma Pegasi
+1,Gamma Sagittarii
+1,Gamma Ursae Majoris
+1,Gamma Ursae Minoris
+1,Gamma2 Sagittarii
+1,Gamma² Sagittarii
+1,Garissa
+1,Garrota
+1,Garth
+1,Gauda Prime
+1,Gaul
+1,Gelidus
+1,Genesis
+1,Gethen
+1,Ghazal
+1,Giedi Prime
+1,Gienah
+1,Giganda
+1,Girath
+1,Gloob
+1,Gnarlach
+1,Gnosticus IV
+1,Goat
+1,Gobotron
+1,God's Grove
+1,God's Hammer
+1,Golgota
+1,Golgotha
+1,Gomeisa
+1,Gor
+1,Gorgona
+1,Gork
+1,Grayson
+1,Groth
+1,Gurun
+1,Gyodai
+1,Hadar
+1,Hades
+1,Hain
+1,Halvmork
+1,Hamal
+1,Harvest
+1,Hazard
+1,Heath
+1,Hebron
+1,Hegira
+1,Heka
+1,Hekla
+1,Helicon
+1,Helion Prime
+1,Helliconia
+1,Hercules
+1,Hiigara
+1,Hikari
+1,Homam
+1,Home
+1,Hope
+1,Horizon
+1,Horse
+1,Hoth
+1,Houston
+1,Htrae
+1,Hummard
+1,Hyaita 4
+1,Hydros
+1,Hydross
+1,Hyperion
+1,Iga
+1,Iklil
+1,Ilu
+1,Imbar
+1,Incandescent
+1,Interchange
+1,Iota Aurigae
+1,Iota Draconis
+1,Iota Ursae Majoris
+1,Ireta
+1,Irk
+1,Ivy
+1,Ix
+1,Ixchel
+1,Izar
+1,Jabbah
+1,Janjur Qom
+1,Jijo
+1,Jinx
+1,Jobis
+1,Jool
+1,Jophekka
+1,Jurai
+1,Kaffaljidhma
+1,Kaitain
+1,Kalb
+1,Kalimdor
+1,Kamino
+1,Kanassa
+1,Kappa Orionis
+1,Kappa Ursae Majoris
+1,Kappa Velorum
+1,Karn
+1,Kashyyyk
+1,Katina
+1,Kaus Borealis
+1,Keid
+1,Kelewan
+1,Kerbin
+1,Kharak
+1,King
+1,Kitalpha
+1,Kithrup
+1,Klaus
+1,Klendathu
+1,Kobaia
+1,Kobol
+1,Kochab
+1,Komarr
+1,Koozebane
+1,Korath III
+1,Kosmos
+1,Krelar
+1,Krikkit
+1,Krishna
+1,Kronos
+1,Krypton
+1,Kukulkan
+1,Kurhah
+1,LV-426
+1,La Maetelle
+1,Lagash
+1,Lamarckia
+1,Lambda Herculis
+1,Lambda Leonis
+1,Lambda Ophiuchi
+1,Lambda Orionis
+1,Lambda Sagittarii
+1,Lambda Scorpii
+1,Lambda Ursae Majoris
+1,Lambda Velorum
+1,Lave
+1,Laythe
+1,Leesti
+1,Legis XV
+1,Leo
+1,Leonida
+1,Lesath
+1,Leslie
+1,Lion
+1,Londinium
+1,Luinil
+1,Lumbar
+1,Lumen
+1,Lumiere
+1,Lusch
+1,Lusitania
+1,Lyra
+1,Maasym
+1,Maaz
+1,MacBeth
+1,Maetel
+1,Magma
+1,Magrathea
+1,Majipoor
+1,Mankib
+1,Mare Infinitus
+1,Marfik
+1,Markab
+1,Markeb
+1,Marshmalia
+1,Marune
+1,Maske
+1,Matar
+1,Maui-Covenant
+1,Mebsuta
+1,Medea
+1,Megrez
+1,Meiji
+1,Meissa
+1,Mejerr
+1,Mekbuda
+1,Meleph
+1,Melmac
+1,Menkalinan
+1,Menkar
+1,Menkent
+1,Menkib
+1,Mer
+1,Merak
+1,Meridian
+1,Merle
+1,Mesklin
+1,Metaluna
+1,Midkemia
+1,Milky Way
+1,Milokeenia
+1,Minbar
+1,Mintaka
+1,Mirach
+1,Mirak
+1,Miranda
+1,Mirfak
+1,Mirzam
+1,Mizar
+1,Mogo
+1,Moho
+1,Mok
+1,Mondas
+1,Monea
+1,Mongo
+1,Mons
+1,Mor-Tax
+1,Morthrai
+1,Motavia
+1,Mote Prime
+1,Mothallah
+1,Mother Camels
+1,Mount
+1,Mu Draconis
+1,Mu Pegasi
+1,Mu Ursae Majoris
+1,Muhlifain
+1,Muliphein
+1,Muphrid
+1,Murzim
+1,Mustafar
+1,Naboo
+1,Nackle
+1,Nacre
+1,Namek
+1,Narn
+1,Nashira
+1,Navi
+1,Nebula 71
+1,Nebula L-77
+1,Nebula Z95
+1,Nede
+1,Nekkar
+1,Nemesis
+1,Nenar
+1,New Amazonia
+1,New Chicago
+1,New Earth
+1,New Namek
+1,New Terra
+1,New Vegeta
+1,Nihal
+1,Nihil
+1,Nirn
+1,Nopalgarth
+1,Norfolk
+1,Norion
+1,Nova Kong
+1,Nu Scorpii
+1,Nu Ursae Majoris
+1,Nuliajuk
+1,Nusakan
+1,Nyvan
+1,Oa
+1,Oban
+1,Okda
+1,Omicron
+1,Omicron Persei
+1,Omicron1 Eridani
+1,Omicron2 Canis Majoris
+1,Omicron2 Eridani
+1,Omicron² Canis Majoris
+1,Omicron² Eridani
+1,Omicron¹ Eridani
+1,Omnivarium
+1,Onyx
+1,Optera
+1,Orion
+1,Ork
+1,Ormazd
+1,Orthe
+1,Osiris
+1,Pacem
+1,Palain IX
+1,Palamok
+1,Palma
+1,Palshife
+1,Pandarve
+1,Pandora
+1,Pant
+1,Parvati
+1,Pegasus
+1,Peladon
+1,Pern
+1,Petaybee
+1,Phaaze
+1,Phact
+1,Phad
+1,Pherkad
+1,Pittsburgh
+1,Plateau
+1,Pleiades
+1,Plootarg
+1,Pluto
+1,Pol
+1,Psi Draconis
+1,Pyrrus
+1,Q-13
+1,Qar'To
+1,Qo'noS
+1,Qom-Riyadh
+1,Quintessa
+1,Rain
+1,Rainbow
+1,Rasalased
+1,Rasalgethi
+1,Rasalhague
+1,Raseltinnin
+1,Rastaban
+1,Raxicor
+1,Reach
+1,Red Star
+1,Regis III
+1,Remulak
+1,Remus
+1,Rentus
+1,Requiem
+1,Resurgam
+1,Reverie
+1,Rho Scorpii
+1,Riedquat
+1,Rigel
+1,Rigel 7
+1,Rigilkent
+1,Rime
+1,Risha
+1,River
+1,Roak
+1,Roche
+1,Romulus
+1,Rougpelt
+1,Rubanis
+1,Rukbah
+1,Rukbat
+1,Ruzhena
+1,Rykros
+1,Rylos
+1,SR-388
+1,Sabik
+1,Sadachbia
+1,Sadalbari
+1,Sadalmelik
+1,Sadalsuud
+1,Sadr
+1,Saiph
+1,Salusa Secundus
+1,Sanctuary
+1,Sanghelios
+1,Sangre
+1,Saraksh
+1,Sarris
+1,Saula
+1,Sauria
+1,Sauron
+1,Scheat
+1,Scorpius
+1,Second Miltia
+1,Sedon
+1,Sedra
+1,Sergyar
+1,Serpo
+1,Sesharrim
+1,Shadow
+1,Shaggai
+1,Shaula
+1,She-Goat
+1,Shedir
+1,Sheliak
+1,Sheratan
+1,Shikasta
+1,Shora
+1,Sigma Draconis
+1,Sigma Octanus IV
+1,Signo
+1,Sihnon
+1,Sirrah
+1,Skaro
+1,Skat
+1,Sky's Edge
+1,Sol Draconi
+1,Solaria
+1,Solaris
+1,Solbrecht
+1,Soror
+1,Sparta
+1,Spherus Magna
+1,Spica
+1,Spider
+1,Spira
+1,St. Cuthbert
+1,St. Ekaterina
+1,St. Elmo
+1,Star One
+1,Stroggos
+1,Styx
+1,Sulafat
+1,Synnax
+1,T'ien Shan
+1,T'vao
+1,Tagora
+1,Talark
+1,Talitha Borealis
+1,Tallon IV
+1,Tamaran
+1,Tania Borealis
+1,Tanis
+1,Tanith
+1,Tarf
+1,Tatooine
+1,Tau2 Eridani
+1,Taurus
+1,Tau² Eridani
+1,Te
+1,Tek
+1,Tellus Secundus
+1,Tellus Tertius
+1,Temblor
+1,Tenebra
+1,Tergiverse IV
+1,Terminal
+1,Terminus
+1,Thalassa
+1,Thalassean
+1,Thallon
+1,The Smoke Ring
+1,Thel
+1,Thermia
+1,Theta Centauri
+1,Theta Eridani
+1,Theta Leonis
+1,Theta Pegasi
+1,Theta Serpentis
+1,Thra
+1,Thuban
+1,Tiamat
+1,Timbl
+1,Tirol
+1,Tissa
+1,Titan
+1,Titania
+1,Tleilax
+1,Tokyo
+1,Torto
+1,Traal
+1,Tralfamadore
+1,Trantor
+1,Trenco
+1,Tribute
+1,Trullion
+1,Tschai
+1,Twinsun
+1,Tylo
+1,U40
+1,Ummo
+1,Undomiel
+1,Unicron
+1,Unukalhai
+1,Upsilon Scorpii
+1,Uriel
+1,Ursa Major
+1,Urth
+1,Urtraghus
+1,Vall
+1,Vanguard 3
+1,Vega
+1,Vegandon
+1,Vegeta
+1,Velantia
+1,Velux
+1,Venom
+1,Vindine
+1,Vladislava
+1,Vorticon VI
+1,Vortis
+1,Vulcan
+1,Vusstra
+1,Wallach IX
+1,Wasat
+1,Waterloo
+1,Wegthor
+1,Wezen
+1,Wezn
+1,Wormwood
+1,Wyst
+1,Xenex
+1,Xenon
+1,Xi Andromedae
+1,Xi Cephei
+1,Xindus
+1,Yaila
+1,Yavin 4
+1,Yed Posterior
+1,Yed Prior
+1,Yellowstone
+1,Yugopotamia
+1,Z'ha'dum
+1,Zahir
+1,Zaniah
+1,Zark
+1,Zarkon
+1,Zartron-9
+1,Zaurac
+1,Zavijava
+1,Zawiah
+1,Zebes
+1,Zedelbrock 473
+1,Zedelbrock 475
+1,Zeelich
+1,Zeta Canis Majoris
+1,Zeta Ceti
+1,Zeta Draconis
+1,Zeta Geminorum
+1,Zeta Leonis
+1,Zeta Orionis
+1,Zeta Pegasi
+1,Zeta Ursae Majoris
+1,Zeta Orionis
+1,Zog
+1,Zok
+1,Zokk
+1,Zoness
+1,Zorg
+1,Zubenelgenubi
+1,Zubenelhakrabi
+1,Zubeneschamali
+1,Zutinma
+1,Zyrgon

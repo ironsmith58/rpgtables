@@ -1,0 +1,181 @@
+
+
+# Table represents the linked roll tables for 
+# Point of Interest generation as described in
+# Stars Without Number (Revised Edition) pg 171
+;Start
+1,Deep-space Station :
+_Occupied By : [DeepSpaceStationOccupied]
+_With This Situation : [DeepSpaceStationSituation]
+
+1,Asteroid Base :
+_Occupied By : [AsteroidBaseOccupied]
+_With This Situation : [AsteroidBaseSituation]
+
+1,Remote Moon Base :
+_Occupied By : [RemoteMoonBaseOccupied]
+_With This Situation : [RemoteMoonBaseSituation]
+
+1,Orbital Ruin :
+_Occupied By : [OrbitalRuinOccupied]
+_With This Situation : [OrbitalRuinSituation]
+
+1,Research Base :
+_Occupied By : [ResearchBaseOccupied]
+_With This Situation : [ResearchBaseSituation]
+
+1,Asteroid Belt :
+_Occupied By : [AsteroidBeltOccupied]
+_With This Situation : [AsteroidBeltSituation]
+
+1,Gas Giant Mine :
+_Occupied By : [GasGiantMineOccupied]
+_With This Situation : [GasGiantMineSituation]
+
+1,Refueling Station :
+_Occupied By : [RefuelingStationOccupied]
+_With This Situation : [RefuelingStationSituation]
+
+1,Secret Gang Hideout :
+_Occupied By : [GangHideoutOccupied]
+_With This Situation : [GangHideoutSituation]
+
+
+
+
+;DeepSpaceStationOccupied
+1,Dangerously odd transhumans
+1,Freeze-dried ancient corpses
+1,Secretive military observers
+1,Eccentric oligarch and minions
+1,Deranged but brilliant scientist
+
+;DeepSpaceStationSituation
+1,Systems breaking down
+1,Foreign sabotage attempt
+1,Black market for the elite
+1,Vault for dangerous pretech
+1,Supply base for pirates
+
+;AsteroidBaseOccupied
+1,Systems breaking down
+1,Foreign sabotage attempt
+1,Black market for the elite
+1,Vault for dangerous pretech
+1,Supply base for pirates
+
+;AsteroidBaseSituation
+1,Zealous religious sectarians
+1,Failed rebels from another world
+1,Wage-slave corporate miners
+1,Independent asteroid prospectors
+1,Pirates masquerading as otherwise
+
+
+;RemoteMoonBaseOccupied
+1,Unlucky corporate researchers
+1,Reclusive hermit genius
+1,Remnants of a failed colony
+1,Military listening post
+1,Lonely overseers and robot miners
+
+;RemoteMoonBaseSituation
+1,Something dark has awoken
+1,Criminals trying to take over
+1,Moon plague breaking out
+1,Desperate for vital supplies
+1,Rich but badly-protected
+
+;OrbitalRuinOccupied
+1,Robots of dubious sentience
+1,Trigger-happy scavengers
+1,Government researchers
+1,Military quarantine enforcers
+1,Heirs of the original alien builders
+
+;OrbitalRuinSituation
+1,Trying to stop it awakening
+1,Meddling with strange tech
+1,Impending tech calamity
+1,A terrible secret is unearthed
+1,Fighting outside interlopers
+
+;ResearchBaseOccupied
+1,Experiments that have gotten loose
+1,Scientists from a major local corp
+1,Black-ops governmental researchers
+1,Secret employees of a foreign power
+1,Aliens studying the human locals
+
+;ResearchBaseSituation
+1,Perilous research underway
+1,Hideously immoral research
+1,Held hostage by outsiders
+1,Science monsters run amok
+1,Selling black-market tech
+
+
+;AsteroidBeltOccupied
+1,Grizzled belter mine laborers
+1,Ancient automated guardian drones
+1,Survivors of destroyed asteroid base
+1,Pirates hiding out among the rocks
+1,Lonely military patrol base staff
+
+
+;AsteroidBeltSituation
+1,Ruptured rock released a peril
+1,Foreign spy ships hide there
+1,Gold rush for new minerals
+1,Ancient ruins dot the rocks
+1,War between rival rocks
+
+
+
+;GasGiantMineOccupied
+1,Miserable gas-miner slaves or serfs
+1,Strange robots and their overseers
+1,Scientists studying the alien life
+1,Scrappers in the ruined old mine
+1,Impoverished separatist group
+1,Well funded separatist group
+
+
+;GasGiantMineSituation
+1,Things are emerging below
+1,They need vital supplies
+1,The workers are in revolt
+1,Pirates secretly fuel there
+1,Alien remnants were found
+
+
+;RefuelingStationOccupied
+1,Half-crazed hermit caretaker
+1,Sordid purveyors of decadent fun
+1,Extortionate corporate minions
+1,Religious missionaries to travelers
+1,Brainless automated vendors
+
+
+;RefuelingStationSituation
+1,A ship is in severe distress
+1,Pirates have taken over
+1,Has corrupt customs agents
+1,Foreign saboteurs are active
+1,Deep-space alien signal
+
+
+;GangHideoutOccupied
+1,Half-crazed hermit caretaker
+1,Casino
+1,Holding station for contraband
+1,Gang Safehouse/Cache
+1,Gang Pleasure Spot
+
+
+;GangHideoutSituation
+1,A ship is in severe distress
+1,Gang leader is marooned (may also have henchmen)
+1,Outbreak of plague amongst prisoners/gang members
+1,Pressured by another gang
+1,Deep-space alien signal

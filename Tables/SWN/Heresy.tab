@@ -1,0 +1,69 @@
+
+
+
+;Start
+1,Heresy       :
+_Founder      : [Founder]
+_Major Heresy : [MajorHeresy]
+_Attitude     : [Attitude]
+_Quirk        : [Quirk]
+
+
+;Founder
+1,Defrocked clergy: founded by a cleric outcast from the faith.
+1,Frustrated layman: founded by a layman frustrated with the faith's decadence, rigidity, or lack of authenticity
+1,Renegade prophet: founded by a revered holy figure who broke with the faith
+1,High prelate: founded by an important and powerful cleric to convey his or her beliefs
+1,Dissatisfied minor clergy: founded by a minor cleric frustrated with the faith's current condition
+1,Outsider: founded by a member of another faith deeply influenced by the parent religion
+1,Academic: founded by a professor or theologian on intellectual grounds
+1,Accidental; the founder never meant their works to be taken that way.
+
+;MajorHeresy
+1,Manichaeanism: the sect believes in harsh austerities and rejection of matter as something profane and evil
+1,Donatism: the sect believes that clergy must be personally pure and holy in order to be legitimate
+1,Supercessionism: the sect believes the founder or some other source supercedes former scripture or tradition
+1,Antinomianism: the sect believes that their holy persons are above any earthly law and may do as they will
+1,Universal priesthood: the sect believes that there is no distinction between clergy and layman and that all functions of the faith may be performed by all members
+1,Conciliarism: the sect believes that the consensus of believers may correct or command even the clerical leadership of the faith
+1,Ethnocentrism: the sect believes that only a particular ethnicity or nationality can truly belong to the faith
+1,Separatism: the sect believes members should shun involvement with the secular world
+1,Stringency: the sect believes that even minor sins should be punished, and major sins should be capital crimes
+1,Syncretism: the sect has added elements of another native faith to their beliefs
+1,Primitivism: the sect tries to recreate what they imagine was the original community of faith
+1,Conversion by the sword: unbelievers must be brought to obedience to the sect or be granted death
+
+;Attitude
+1,Filial: the sect honors and respects the orthodox faith, but feels it is substantially in error
+1,Anathematic: the orthodox are spiritually worse than infidels, and their ways must be avoided at all costs
+1,Evangelical: the sect feels compelled to teach the orthodox the better truth of their ways
+1,Contemptuous: the orthodox are spiritually lost and ignoble
+1,Aversion: the sect wishes to shun and avoid the orthodox
+1,Hatred: the sect wishes the death or conversion of the orthodox
+1,Indifference: the sect has no particular animus or love for the orthodox
+1,Obedience: the sect feels obligated to obey the orthodox hierarchy in all matters not related to their specific faith
+1,Legitimist: the sect views itself as the \"true\" orthodox faith and the present orthodox hierarchy as pretenders to their office
+1,Purificationist: the sect's austerities, sufferings, and asceticisms are necessary to purify the orthodox
+
+
+;Quirk
+1,Clergy of only one gender
+1,Dietary prohibitions
+1,Characteristic item of clothing or jewelry
+1,Public prayer at set times or places
+1,Forbidden to do something commonly done
+1,Anti-intellectual, deploring secular learning
+1,Mystical, seeking union with God through meditation
+1,Lives in visibly distinct houses or districts
+1,Has a language specific to the sect
+1,Greatly respects learning and education
+1,Favors specific colors or symbols
+1,Has unique purification rituals
+1,Always armed
+1,Forbids marriage or romance outside the sect
+1,Will not eat with people outside the sect
+1,Must donate labor or tithe money to the sect
+1,Special friendliness toward another faith or ethnicity
+1,Favors certain professions for their membership
+1,Vigorous charity work among unbelievers
+1,Forbidden the use of certain technology
