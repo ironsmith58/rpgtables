@@ -1,0 +1,1280 @@
+#
+# 4e Monster
+#
+
+:Start
+1,<b>Type -</b> [Origin] [Body], <b>Attack Style -</b> [ass], <b>Movement -</b> [Mov], <b>Strength -</b> [str], <b>Size -</b> [Sizee], <b>Color -</b> [Color] * [Color] * Texture - [Shade], <b>Skin -</b> [sken], <b>Attack types -</b> [Att] [Att] -- [App] [App], <b>Powers -</b> [Base] (minion)- [Pwr] [Pwr] (Standard Creature)- [Pwr] [Pwr] (elite creature)- [Pwr]  [Pwr] [Pwr] (solo creature)
+
+;Origin
+1,Dragon [drac] and the breath weapon is - [brewft]
+
+;Dead
+1,Skeletal
+1,Zombie
+1,Ghostly
+1,Skin
+1,Blood
+1,Organs
+1,Muscle
+1,Mummified
+1,Ghoul
+1,Vampiric
+1,Ravenous
+1,Stalking
+1,Arcane Weapon Corporeal whole body
+1,Arcane Weapon Corporeal rotted body
+1,Arcane Weapon Corporeal skeleton
+1,Arcane Weapon Incorporeal
+1,Wraith
+1,Spectre
+1,Wight
+
+;hevil
+1,Shadow like
+1,Shade like
+1,Unnaturally Pale skinned
+1,Past relic
+1,Living memory
+1,Stray Thought
+1,Dream
+1,Nightmare dream
+1,Lost
+1,Time elemental
+1,Shadow twisted creature [animll]
+1,Shadow spirit
+
+;natural1
+1,Better Strength
+1,Better Dexterity
+1,Better Constitution
+1,Better Intelligence
+1,Better Wisdom
+1,Better Charisma
+1,Faster
+1,Resistant to damage [damgg]
+1,Feral
+1,Arcane Blood
+1,Corrupted
+1,Poisonous
+1,Elemental [elem1]
+1,Climate Adapted
+1,Dungeon Guardian
+1,Brutal predator
+1,Reclusive
+1,Insane
+1,Extra Limbed
+1,Diseased
+
+;damgg
+1,Fire
+1,Cold
+1,Electric
+1,Ice
+1,Thunder
+1,Fire
+1,Acid
+1,Necrotic
+1,Radiance
+1,Melee
+1,Ranged
+
+;servg
+1,Winged
+1,Eye only face
+1,Whispy features
+1,Radiant body
+1,Feral deformed animal [animll]
+1,Sharp toothy features
+1,Multiple appendages
+1,Overwhelming strength
+1,Elemental Features [elemmm3]
+1,Malformed bestial body [maginimll]
+1,Gold radiant skinned and white horns, teeth and claws
+1,Vicious weapon master
+1,Skeletal like beast [animll]
+1,Stinger
+1,Humanoid Bestial [maginimll]
+1,Punishing
+1,Seductive
+1,Gaurdian
+1,Soldier
+
+;tall1
+1,Large
+2,Huge
+1,Gargantuan
+
+;og
+1,Ogre like
+1,Troll like
+1,Ettin like
+1,Giant like
+3,Giant [animll]
+
+;pix
+1,Brownie
+1,Sprite
+1,Satyr like
+1,Radiant Animal [animll]
+1,Spirit Animal [animll]
+1,Radiant Humanoid [humm]
+1,Spirit Humanoid [humm]
+1,Centaur like
+1,Pixie like
+1,Gossamar Winged
+
+;chel
+1,Storm
+1,Bestial [animll]
+1,Humanoid [humm]
+1,Archon like
+1,Ooze
+1,Magma
+1,Smoke
+1,Dust
+1,Radiance
+1,Necrotic
+1,Ash
+1,Gem
+1,Explosive
+1,Whisp
+1,Glowing ball
+1,Cloud
+
+;brewft
+1, Breath Weapon Type - [elem1]
+
+;drac
+1,Fang
+1,Sand
+1,Spiked
+1,Steel
+1,Astral
+1,Battle
+1,Beast [animll]
+1,Brass
+1,Bronze
+1,Chaos
+1,Chromium
+1,Cobalt
+1,Concordant
+1,Copper
+1,Crystal
+1,Elysian
+1,Emerald
+1,Shadowfell
+1,Feywind
+1,Mercury
+1,Mist
+1,Nickel
+1,Rust
+1,Sapphire
+1,Shadow
+1,Styx
+1,Tome
+1,Tungsten
+1,Amethyst
+1,Iron
+1,Oceanus
+1,Pyroclastic
+1,Topaz
+1,Gold
+1,Radiant
+1,Tarterian
+1,Adamantine
+1,Landwyrm (flightless)
+1,Dragon Turtle
+1,Drake
+1,Platinum
+1,Prismatic
+1,Force
+
+;dev
+1,Red Skinned and black horns, teeth and claws
+1,Vicious weapon master
+1,Skeletal like beast [animll]
+1,Winged
+1,Stinger
+1,Humanoid Bestial [maginimll]
+1,Punishing Devil
+1,Seductive Devil
+1,Gaurdian Devil
+1,Soldier Devil
+
+;dm
+1,Feral deformed animal [animll]
+1,Sharp toothy features
+1,Multiple appendages
+1,Overwhelming strength
+1,Winged
+1,Elemental Features [elemmm3]
+1,Malformed bestial body [maginimll]
+3,Two features [dmm1] [dmm2]
+
+;dmm1
+1,Feral deformed animal [animll]
+1,Sharp toothy features
+1,Multiple appendages
+1,Overwhelming strength
+
+;dmm2
+1,Winged
+1,Elemental Features [elemmm3]
+1,Malformed bestial body [maginimll]
+
+;elemmm3
+1,Fire
+1,Cold
+1,Electric
+1,Ice
+1,Thunder
+1,Fire
+1,Acid
+2,Necrotic
+
+;an
+1,Winged
+1,Eye only face
+1,Whispy features
+1,Radiant body
+1,Elemental nature [elem1]
+3,Two Features [ann1] [ann2]
+2,Three Features [ann1] [ann2] [ann3]
+
+;ann1
+1,Winged
+1,Eye only face
+
+;ann2
+1,Whispy features
+1,Radiant body
+
+;ann3
+1,Elemental nature [elem1]
+
+;elem1
+1,Fire
+1,Cold
+1,Electric
+1,Ice
+1,Thunder
+1,Fire
+1,Acid
+2,Radiance
+3,Two features [elemntt1] [elemntt2]
+2,Three features [elemntt1] [elemntt2] [elemntt3]
+
+;elemntt1
+1,Fire
+1,Cold
+
+;elemntt2
+1,Electric
+1,Ice
+1,Radiance
+
+;elemntt3
+1,Thunder
+1,Fire
+1,Acid
+
+;ab
+1,Tentacled
+1,Bizzare Body parts
+1,Many Body parts - eyes, mouths, ears, noses, fingers, nails, teeth
+1,Unexplicable cancerous like growths
+1,Abolithic
+1,Beholder like
+1,Illithid like
+1,Neogi like
+1,Grell like
+1,Tsochar like (clawed tentacle worm like)
+1,Cloaker like
+1,Fungal like
+1,Larval like
+1,Psurlon Like
+1,Roper like
+1,Walking space horror like
+1,Bulging Eyes
+1,Flexible Limbs
+1,Segmented Eyes
+1,Slimy Skin
+1,Sticky Fingers
+1,Tail
+1,Webbed Hands
+1,Amphibious Skin
+1,Inksac
+1,Mucus Projector
+1,Waterjet
+1,Burrowing Claws
+1,Pale Pupilless eyes
+1,Enlarged Brain
+1,Chitin plating
+1,Flexible spine
+1,Extended legs
+1,Veiny
+1,Pseudo working sensory organs
+1,Sharp bony
+1,Pulsating
+1,Rippling
+1,Knobby
+20,Two different things [ab1] [ab2]
+10,Three different things [ab1] [ab2] [ab3]
+
+;ab1
+1,Tentacled
+1,Bizzare Body parts
+1,Many Body parts - eyes, mouths, ears, noses, fingers, nails, teeth
+1,Unexplicable cancerous like growths
+1,Abolithic
+1,Beholder like
+1,Illithid like
+1,Neogi like
+1,Grell like
+1,Tsochar like (clawed tentacle worm like)
+1,Cloaker like
+1,Fungal like
+1,Larval like
+
+;ab2
+1,Psurlon Like
+1,Roper like
+1,Walking space horror like
+1,Bulging Eyes
+1,Flexible Limbs
+1,Segmented Eyes
+1,Slimy Skin
+1,Sticky Fingers
+1,Tail
+1,Webbed Hands
+1,Amphibious Skin
+1,Inksac
+1,Mucus Projector
+1,Waterjet
+1,Burrowing Claws
+
+;ab3
+1,Pale Pupilless eyes
+1,Enlarged Brain
+1,Chitin plating
+1,Flexible spine
+1,Extended legs
+1,Veiny
+1,Pseudo working sensory organs
+1,Sharp bony
+1,Pulsating
+1,Rippling
+1,Knobby
+
+;str
+3,Standard
+1,Elite
+1,Solo
+
+;ass
+1,Artillery - spell and blasting attacks
+1,Brute - defensive wall
+1,Controller - controlling magic and abilities
+1,Lurker - suprise and hide powers
+1,Minion 
+1,Skirmisher - hit and run powers
+1,Soldier - standard martial powers
+
+;Body
+2,<b>Main Body</b> Aquatic [aqd]
+10,<b>Main Body</b> Beast [repd]
+10,<b>Main Body</b> Magical Beast [Enchbes]
+3,<b>Main Body</b> Animate Object or Construct [gulum3]
+
+;aqd
+1,Turtle like
+1,Aquatic Dinosaur like
+1,Sea serpent like
+
+;repd
+1,Serpent like
+1,Draconic
+
+;gulum3
+1,Clockwork Serpent like
+1,Clockwork Draconic
+
+;gulum
+5,Animated object
+10,Golem [materialg]
+5,Clockwork
+1,Alchemical
+1,Homunculus
+5,Tool
+5,Animate Weapon
+5,Animate Armor
+5,Animate Armor and Weapon
+1,Animate magical item
+1,Carved Effigy
+5,Animated animal [animll]
+1,Juggernaut
+1,Colossus
+1,Animate wall
+1,Animate floor
+1,Animate ceiling
+1,Animate column
+ 
+;materialg
+1,Alchemical
+1,Coral
+1,Grave Dirt
+1,Relief
+1,Insect Swarm
+1,Rune
+1,Web
+1,Fang
+1,Maggot
+1,Flesh
+1,Marble
+1,Limestone
+1,Granite
+1,Clay
+1,Obsidian
+1,Ruby
+1,Emerald
+1,Diamond
+1,Adamantine
+1,Sand
+1,Water
+1,Brain
+1,Guts
+1,Blood
+1,Iron
+1,Bronze
+1,Steel
+1,Wood
+1,Brass
+1,Copper
+1,Tin
+1,Gold
+1,Silver
+1,Platinum
+1,Mercury
+1,Paper
+1,Glass
+1,Doll
+1,Rags
+1,Straw
+1,Force
+1,Fungus
+1,Magma
+1,Junk
+1,Stained Glass
+1,Blade
+1,Mud
+1,Wicker
+1,Dragonbone
+1,Ice
+1,Dragon Flesh
+1,Black Ice
+1,Cannon
+1,Hellfire
+1,Demon Flesh
+1,Prismatic
+1,Tombstone
+
+;swimmar
+1,Hive swarm
+1,Tiny swarming creatures
+1,Small swarming creatures
+1,Large swarming creatures
+1,Parasitic Swarm
+1,Locust like swarm
+1,Mosquito like swarm
+1,Ant like swarm
+
+;humm
+1,Human
+1,Elf
+1,Eladrin
+1,Orc
+1,Goblin
+1,Dwarf
+1,Halfling
+1,Giant
+1,Clawed and Toothed Humanoid Predator
+1,Lizard Folk
+1,Amphibian
+1,Reptilian
+1,Fish like
+1,Dopleganger like
+1,Grasping appendages
+1,Animalistic Humanoid - [animll]
+1,Ravenous Humanoid
+1,Ooze like Humanoid - [fungi]
+1,Plant like humanoid - [fauna]
+
+;fungi
+1,Mushroom
+1,Spore Fungi
+1,Slime Fungi
+1,Mold Fungi
+1,Polyp Fungi
+1,Gelatinous Fungi
+
+;fauna
+1,Tree Decidious
+1,Tree Evergreen
+1,Tree Tropical
+1,Fern
+1,Leafy plant
+1,Thorny plant
+1,Vine
+1,Flowering plant
+1,Spore plant
+1,Fruit plant
+1,Nut plant
+1,Grass 
+1,Moss
+1,Broad leaf plant
+1,Algae slime
+
+;shapes
+1,Chameleon Shapechanger
+1,Doppleganger like
+1,Amorphous blob like
+1,Reverse were creature
+1,Size shifter
+1,Gaseous Shapechanger
+1,Mimic like Shapechanger 
+
+;Body1
+1,Aquatic [animll]
+1,Beast [animll]
+1,Humanoid [humm]
+1,Magical Beast [maginimll]
+1,Mount [animll]
+1,Ooze [fungi]
+1,Plant [fauna]
+1,Shapechanger [shapes]
+1,Animate Object or Construct [gulum]
+
+;maginimll
+1, Base Type of Beast [animll] - Enchanted Properties [Enchbes]
+
+;Enchbes
+10,Manticore Like
+10,Multiheaded
+10,Combination of three beasts - [animll] - [animll]
+5,Winged
+5,Spellcaster
+5,Dire
+5,Prehistoric
+10,Feature of another animal - [animll]
+1,Griffin Like
+1,Werebeast 
+5,Larger than normal
+1,Ankheg like
+1,Cockatrice like
+1,Pegasus like
+1,Unicorn like
+1,Displacer Beast like
+1,Hydra like
+1,Owlbear like
+1,Manticore like
+1,Sphinx like
+1,Bulette like
+1,Remorhaz like
+1,Gorgon like
+1,Roc like
+1,Purple Worm like
+1,Disenchanter like
+1,Rust monster like
+1,Phoenix like
+10,Combination of two different mystical things - [Enchbes1] - [Enchbes2]
+
+;Enchbes1
+10,Manticore Like
+10,Multiheaded
+10,Combination of three beasts - [animll] - [animll]
+5,Winged
+5,Spellcaster
+5,Dire
+5,Prehistoric
+10,Feature of another animal - [animll]
+1,Griffin Like
+1,Werebeast 
+5,Larger than normal
+
+;Enchbes2
+1,Ankheg like
+1,Cockatrice like
+1,Pegasus like
+1,Unicorn like
+1,Displacer Beast like
+1,Hydra like
+1,Owlbear like
+1,Manticore like
+1,Sphinx like
+1,Bulette like
+1,Remorhaz like
+1,Gorgon like
+1,Roc like
+1,Purple Worm like
+1,Disenchanter like
+1,Rust monster like
+1,Phoenix like
+
+;animll
+10,Centipede
+10,Millipede
+10,Scorpion
+10,Spider
+1,Whip scorpion
+10,Ant
+10,Ant lion
+1,Aphid
+1,Assassin bug
+1,Bedbug
+10,Bee
+10,Beetle
+10,Beetle, bombardier
+10,Beetle, goliath
+10,Beetle, rhinoceros
+10,Beetle, stag
+10,Beetle, stink
+10,Borer beetle
+10,Bug
+1,Bumblebee
+1,Butterfly
+1,Caterpillar
+1,Chigger
+1,Cicada
+10,Cockroach
+1,Cricket
+1,Damselfly
+1,Diving Beetle
+10,Dragonfly
+10,Dung Beetle
+1,Earwig
+10,Firefly/Lightning Bug
+10,Flea
+1,Flea, Sand
+10,Fly
+1,Fruit fly
+1,Gnat
+10,Grasshopper
+10,Grub
+10,Hornet
+10,Horsefly
+1,Hoverfly
+1,Ladybug
+10,Locust
+10,Maggot
+10,Mantis
+1,Mole
+10,Cricket
+10,Mosquito
+10,Moth
+1,Insect Pond Skater
+1,Sand fly
+10,Silverfish
+1,Termite
+1,Walking Stick
+10,Wasp
+1,Water Boatman
+1,Water Bug (also giant)
+1,Weevil
+1,Albatross
+1,Bird of Paradise
+1,Blackbird
+1,Bluebird
+1,Bluejay
+1,Canary
+1,Cardinal
+1,Cockateel
+1,Cockatoo
+1,Cowbird
+1,Crane
+10,Crow
+1,Cuckoo
+1,Dove
+1,Duck
+1,Finch
+1,Flamingo
+1,Goose
+1,Grouse
+1,Gull
+1,Heron
+1,Hummingbird
+1,Ibis
+1,Jay Bird
+1,Kingfisher
+1,Loon
+1,Lovebird
+1,Magpie
+1,Macaw
+1,Mocking Bird
+1,Mourning Dove
+1,Mud hen
+10,Night hawk
+1,Nightingale
+1,Oriole
+1,Parakeet
+1,Parrot
+1,Partridge
+1,Pheasant
+1,Pigeon
+1,Prairie Chicken
+1,Puffin
+1,Quail
+10,Raven
+1,Robin
+1,Sandpiper
+1,Snipe
+1,Sparrow
+1,Spoonbill
+1,Stork
+1,Swallow
+1,Swan
+1,Tern
+1,Thrasher
+1,Thrush
+1,Turkey
+1,Warbler
+1,Woodpecker
+1,Wren
+1,Dodo
+1,Emu
+1,Moa
+1,Ostrich
+1,Penguin
+1,Rhea
+1,Road Runner
+1,Secretary Bird
+10,Eagle
+1,Eagle, Bald
+1,Eagle, Golden
+1,Eagle, Harpy
+10,Falcon
+1,Falcon, peregrine
+10,Hawk
+1,Kite
+1,Osprey
+10,Owl
+1,Owl Snowy
+1,Owl Barn
+1,Owl Burrowing
+1,Owl Great Gray
+1,Owl Great Horned
+1,Owl Screech
+10,Buzzard
+10,Condor
+10,Vulture
+10,Bobcat
+10,Cheetah
+10,Domestic Cat
+1,Domestic, curly hair Cat
+1,Domestic, long hair Cat
+1,Domestic, short hair Cat
+1,Domestic, tailless Cat
+1,Domestic, wild (feral) Cat
+10,Jaguar
+10,Leopard
+1,Leopard, Snow
+10,Lion
+1,Lynx
+1,Ocelot
+1,Puma (Cougar, Mountain Lion)
+1,Tiger, Northern (Siberian)
+1,Tiger, Southern (Bengal)
+1,Bloodhound
+1,Bull Dog
+1,Bull Mastiff
+10,Mastiff
+1,Pit bull
+1,Doberman
+1,Pointer
+1,Setter
+1,Sheep Dog(medium-size)
+1,Shepherd German (large)
+1,Sled dog
+1,Wolf hound
+1,Coyote
+1,Dingo
+1,Fox
+1,Jackal
+1,Wolf
+1,Cart Horse
+1,Charger (typical warhorse)
+1,Courser (fast warhorse)
+1,Destrier (heavy warhorse)
+1,Draft Horse
+1,Mustang (wild horse)
+1,Pony (small horse)
+1,Stallion (male horse)
+1,Sumpter (pack horse)
+1,Ass 
+1,Burro 
+1,Donkey
+1,Buffalo
+1,Camel, Dromedary
+1,Camel, Bactrian (twohump)
+1,Elephant
+1,Goat
+1,Horse
+1,Llama
+1,Mule
+1,Ox
+1,Pony
+1,Reindeer
+1,Yak
+1,Fish Amberjack
+1,Fish Anchovy
+1,Fish Bass, sea
+1,Fish Blow fish
+1,Fish Blue fish
+1,Fish Cod
+1,Fish Dolphin (fish)
+1,Fish Flounder
+1,Fish Grouper
+1,Fish Halibut
+1,Fish Herring
+1,Fish Mackerel
+1,Fish Mullet
+1,Fish Ocean perch
+1,Octopus
+1,Fish Red snapper
+1,Fish Rockfish
+10,Fish Shark
+10,Squid
+1,Fish Swordfish
+1,Fish Tuna
+1,Fish Salmon
+1,Fish Sturgeon
+10,Crab
+10,Crayfish
+10,Lobster
+10,Prawn
+10,Shrimp
+1,Sea cucumber
+1,Sea urchin
+1,Abalone
+1,Clam
+1,Conch
+1,Mussel
+1,Oyster
+10,Fish Barracuda
+1,Fish Bass, black
+1,Fish Bass, white
+1,Fish Bullhead
+1,Fish Carp
+1,Fish Catfish
+10,Fish Eel
+1,Fish Panfish
+1,Fish Perch, white
+1,Fish Perch, yellow
+1,Fish Pickerel
+10,Fish Pike
+1,Fish Salmon
+1,Fish Sturgeon
+1,Fish Sucker
+1,Fish Smelt
+1,Fish Trout, brown
+1,Fish Trout, rainbow
+1,Turtle, snapping
+1,Fish Walleyed pike
+1,Fish Whitefish
+10,Tortoise
+10,Alligator
+10,Crocodile
+10,Chameleon
+10,Lizard
+10,Gecko
+10,Monitor Lizard
+10,Boa Snake
+10,Cobra Snake
+10,Poisonous Snake
+
+;sken
+1,rhino like
+1,scaled
+1,plated
+1,hairy
+1,feathery
+1,spiny
+1,slimy
+1,smooth
+1,shell
+1,rock like
+1,boney plated
+1,bark like
+1,metallic
+1,sponge
+1,thick mucus
+
+;Sizee
+1, Tiny
+1, Small
+10, Medium
+1, Large
+1, Huge
+1, Gargantuan
+
+;Color
+1,Blue (and Indigo)
+1,Aqua
+1,Aquamarine
+1,Azure
+1,Royal blue
+1,Sapphire
+1,Sky blue
+1,Spark blue (electric blue)
+1,Turquoise blue
+1,Ultramarine
+1,Blue-black
+1,Dark blue
+1,Indigo
+1,Navy blue
+1,Brown
+1,Auburn
+1,Bronze
+1,Chestnut
+1,Chocolate
+1,Cinnamon
+1,Hazel
+1,Liver-colored
+1,Mahogany
+1,Nut brown
+1,Ochre
+1,Puce
+1,Sepia
+1,Tan
+1,Toast
+1,Umber
+1,Clear
+1,Crystalline
+1,Translucent
+1,Transparent
+1,Gray
+1,Ash-gray
+1,Blue-gray
+1,Chiaroscuro
+1,Dingy
+1,Dove gray
+1,Drab
+1,Dun
+1,Dusky
+1,Iron-gray
+1,Lead/leaden
+1,Pearl gray
+1,Pewter
+1,Salt & pepper
+1,Silver
+1,Slate
+1,Smoke
+1,Stone
+1,Green
+1,Apple-green
+1,Aquamarine
+1,Beryl
+1,Wine Bottle-green
+1,Emerald
+1,Grass-green
+1,Leaf-green
+1,Lime
+1,Malachite
+1,Moss-green
+1,Olive
+1,Pea-green
+1,Pine-green
+1,Sage
+1,Sea-green
+1,Spinach-green
+1,Slime-green
+1,Turquoise
+1,Opalescence—Color
+1,Play
+1,Iridescence
+1,Luminous
+1,Pearlesent
+1,Phosphorescent
+1,Radiant
+1,Scintillating
+1,Sheen
+1,Striated
+1,Rainbow
+1,Orange
+1,Apricot
+1,Bright rust
+1,Burnt orange
+1,Carrot-orange
+1,Coral
+1,Flame
+1,Peach
+1,Red-yellow
+1,Salmon
+1,Tangerine
+1,Purple
+1,Amethyst
+1,Blue-red
+1,Eggplant
+1,Lavender
+1,Lilac
+1,Magenta
+1,Mauve
+1,Plum
+1,Puce
+1,Violet
+1,Red
+1,Beet-red
+1,Blood-red
+1,Brick-red
+1,Burgundy
+1,Carbuncle-red
+1,Cardinal
+1,Carnation
+1,Cherry
+1,Crimson
+1,Fuchsia
+1,Magenta
+1,Pink
+1,Raspberry
+1,Red ochre
+1,Rose
+1,Rouge
+1,Ruby
+1,Ruddy
+1,Rust-red
+1,Sanguine
+1,Scarlet
+1,Strawberry
+1,Terra cotta
+1,Wine-red
+1,Red-Brown
+1,Bronze
+1,Copper
+1,Khaki
+1,Maroon
+1,Russet
+1,Rust
+1,White
+1,Chalk
+1,Ivory
+1,Lily
+1,Milk
+1,Paper
+1,Platinum
+1,Silver
+1,Snow
+1,Yellow
+1,Amber
+1,Banana
+1,Beige
+1,Chrome yellow
+1,Cream-colored
+1,Gold
+1,Golden
+1,Honey
+1,Lemon
+1,Saffron
+1,Sandy
+1,Straw-yellow
+1,Sulfur
+1,Topaz
+1,Yellow ocher
+
+;Shade
+1,Bright
+1,Brilliant
+1,Clear
+1,Deep
+1,Intense
+1,Pure
+1,Sharp
+1,Vibrant
+1,Vivid
+1,Glittering
+1,Glossy
+1,Metallic
+1,Shining
+1,Dark
+1,Dull
+1,Dusty
+1,Muddy
+1,Muted
+1,Pale
+1,Shade
+1,Tint
+1,Undertone
+1,Watery
+1,Blotched
+1,Mottled
+1,Spattered
+1,Stained
+1,Streaked
+1,Striped
+1,Leopard spotted
+
+;Att 
+1,Acid
+1,Saving Throw
+1,All Around Vision
+1,Aura
+1,Blind and Blindisghted
+1,Burrow
+1,Change Shape Lycanthrope
+1,Change Shape Chameleon
+1,Change Shape Mimic or Doppelganger
+1,Charm
+1,Climb
+1,Cold
+1,Combat Advantage (stalker)
+1,Conjuration
+1,Darkvision
+1,Deceptive Veil
+1,Disease
+1,Fear
+1,Fire
+1,Fly
+1,Phasing (walk thru difficult terrain)
+1,Force
+1,Gaseous Form
+1,Gaze
+1,Healing
+1,Illusion
+1,Immune
+1,Insubstantial
+1,Lightning
+1,Low Light Vision
+1,Necrotic
+1,Ongoing Damage
+1,Poison
+1,Polymorph
+1,Psychic
+1,Pull
+1,Push
+1,Radiant
+1,Regeneration
+1,Resist
+1,Sleep
+1,Slide
+1,Sustain
+1,Telepathy
+1,Teleportation
+1,Threatning Reach
+1,Thunder
+1,Tremorsense
+1,Truesight
+1,Vulnerable
+1,Weapon Weilder
+1,Zone effects
+1,Dominate
+1,Invisibility
+1,Rage
+1,Frenzy
+1,Move by attack
+1,Arcane spells
+1,Divine spells
+1,Shield
+1,Armor
+1,Entangle
+1,Sweep
+1,Bloodied Ability
+1,Sacrifice
+1,Deflect
+1,Death throw attack
+1,Charge
+1,Second Wind
+1,Slow
+1,Paralyze
+1,Mixed creature
+1,Force
+1,Vile
+1,Bolt
+1,Curse
+
+;App
+1,Claws
+1,Bite
+1,Wings
+1,Horn
+1,Razors
+1,Thorns
+1,Fist
+1,Tentacle
+1,Breath
+1,Slam
+1,Projectile
+1,Burst
+1,Touch
+1,Ray
+1,Trample
+1,Wave
+1,Rain
+1,Hail
+1,Spikes
+1,Dance
+1,Blade
+1,Crush
+1,Maul
+1,Spray
+1,Spittle
+1,Mandibles
+1,Tail
+1,Bludgeon
+1,Absorb
+1,Drink or Suck
+1,Pulsate
+1,Surge
+1,Whirlwind
+1,Choke
+1,Sound or Voice
+1,Strong Jaw
+1,Swallow
+1,Eye
+1,Gore
+
+;Pwr
+10, * standard * [usage]
+5, * move * [usage]
+5, * minor * [usage]
+3, * immediate interrupt * [usage]
+3, * immediate reaction * [usage]
+2, * free * [usage]
+
+;usage
+2, Sustain*
+5, Recharge*
+1, At Will*
+5, Encounter*
+
+;Base
+4,Melee At Will Standard
+1,Ranged At Will Standard
+1,Melee and Ranged At Will Standard
+
+;Mov
+5,Walk Normal 6
+5,Walk Slow 4
+5,Walk Fast 8
+1,Fly Normal 6 [Contrl] [Wlk]
+1,Fly Slow 4 [Contrl] [Wlk]
+1,Fly Fast 8 [Contrl] [Wlk]
+1,Climb Normal 6 [Wlk]
+1,Climb Slow 4 [Wlk]
+1,Climb Fast 8 [Wlk]
+1,Burrow Normal 6 [Wlk]
+1,Burrow Slow 4 [Wlk]
+1,Burrow Fast 8 [Wlk]
+1,Climb and Burrow 6 [Wlk]
+
+;Contrl
+1,No limit and can do overland flight
+1,Fly up to 20 squaresast 9
+1,Fly up to 10 squares
+1,Clumsy Flying
+1,Clumsy Grounded
+1,Hover and no limit and can do overland flight
+
+;Wlk
+1,Walk Normal 6
+1,Walk Slow 4
+1,Walk Very Slow 3
+1,Walk Fast 7
+1,Walk Very F

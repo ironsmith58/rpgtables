@@ -1,0 +1,10 @@
+
+
+:Start
+1,[Coins]
+
+
+:Coins
+1,{Dice~3D20*100}
+
+
