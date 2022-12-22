@@ -4,5 +4,6 @@ TableSmith tables for random everything for RPG games
 
 
 
-TableSmith, Random Genertor, Veersion 5.2 Reserved.
+[TableSmith](http://www.mythosa.net/Main/TableSmith?from=Utils.Html)
+Random Genertor, Veersion 5.2 Reserved.
 
