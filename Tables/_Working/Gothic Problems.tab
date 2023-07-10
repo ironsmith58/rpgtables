@@ -1,0 +1,108 @@
+﻿#
+# Gothic Problems
+# Stolen from Cruelity and Gothic Tales by Eldrad Wolfsbane
+# Edited/Cleaned by Noah Stevens
+# April 9,2018
+#
+
+:Start
+1,Is addicted to some drug
+2,Is honest to a fault
+3,Is in love with a family member
+4,Is a sex addict
+5,Is a heavy smoker
+6,Is a gambler
+7,Plays the bagpipes
+8,Sings compulsively
+9,Plays the piano compulsively
+10,Writes compulsively
+11,Is a terrible poet
+12,Reads too much
+13,Dresses improperly
+14,Is impoverished
+15,Is unhealthy
+16,Is old
+17,Is naive
+18,Is known as a person of low character
+19,Is a practitioner of some strange foreign religion
+20,Is a Catholic
+21,Is a foreigner of low social status
+22,Is a member of a Wandering People and has no country
+23,Is obsessed by the occult
+24,Is ugly
+25,Has bad eyesight
+26,Is short
+27,Is bald or balding
+28,Is undernourished
+29,Is overfed
+30,Is illiterate
+31,Is mute
+32,Is hemophiliac
+33,Is deaf
+34,Is an albino
+35,Is a bastard of a noble
+36,Is a bastard of a prince
+37,Is a bastard of the king
+38,Is a bully
+39,Is a child
+40,Is an imposter
+41,Is a courtesan
+42,Is a devil worshiper
+43,Is a dwarf
+44,Is a fairy
+45,Is a foreign spy
+46,Is a foreigner from an unknown land
+47,Is a gentleman/lady thief
+48,Is a giant
+49,Is a hermaphrodite
+50,Is a hunchback
+51,Is a lawyer
+52,Is a loan shark
+53,Is a martial artist
+54,Is a medium and can see and speak to the dead
+55,Is a pirate and has a pirate ship
+56,Is a priest
+57,Is sexually aggressive
+58,Is a simpleton
+59,Is a spy
+60,Is a vampire
+61,Is a vampire hunter and everyone is suspect
+62,Is a veteran of a terrible war
+63,Is a war hero
+64,Is a lycanthrope
+65,Is an alcoholic
+66,Is an exorcist
+67,Is a homosexual
+68,Is an invalid
+69,Is an opium addict
+70,Is blind
+71,Is deformed
+72,Is devil-possessed
+73,Is formal noble turned servant
+74,Is gifted with visions and dreams of the future.
+75,Is incredibly beautiful/handsom
+76,Is a Capitalist
+77,Is a Communist
+78,Is of noble blood but not noble heir
+79,Is sadistic
+80,Is without a family
+81,Belongs to a heretical sect or religion
+82,Cries very easily
+83,Is a fortune teller
+84,Is a compulsive gambler with heavy debts
+85,Has a delicate stomach
+86,Has a good twin
+87,Has an evil twin
+88,Has complete amnesia
+89,Has escaped from the asylum
+90,Has syphilis
+91,Has terrible nightmares
+92,Looks just like a recent murder victim
+93,Owns a train line
+94,Was a war criminal and has just returned from prison
+95,Was injured in combat and is a eunuch because of it
+96,Business deals have failed and owes millions
+97,Family died in a terrible accident and is blamed for it
+98,Family is rumored to participate in vile things
+99,Family cursed to die in terrible accidents
+100,Family plagued by terrible genetics

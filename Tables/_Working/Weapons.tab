@@ -1,0 +1,39 @@
+# Weapons
+# 
+# This table generates weapons
+# per Werewolf: the Apocalypse 2nd edition
+# 
+# Table by Mac Moyer
+
+;Start
+1,[LN~Badness]
+
+:Badness
+8,[Melee]<BR>[Firearm][Ammo]
+3,[Firearm][Ammo]
+3,[Melee]
+1,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+;Melee
+8,Knife (Diff:4 Dmg:Str+1)
+1,Axe (Diff:7 Dmg:Str+5)
+3,Fang Dagger (Diff:4 Dmg:Str+1)
+2,Klaive (Diff:6 Dmg:Str+2)
+1,Grand Klaive (Diff:7 Dmg:Str+4)
+
+;Firearm
+2,Lt revolver (Diff:6 Dmg:4)
+2,Hvy revolver (Diff:7 Dmg:6)
+3,Lt pistol (Diff:7 Dmg:4)
+2,Hvy pistol (Diff:8 Dmg:5)
+1,Rifle (Diff:8 Dmg:8)
+2,Small SMG (Diff:7 Dmg:4)
+1,Large SMG (Diff:6 Dmg:4)
+1,Assault rifle (Diff:7 Dmg:7)
+2,Shotgun (Diff:6 Dmg:8)
+2,Semi-auto shotgun (Diff:7 Dmg:8)
+
+;Ammo
+2,
+2, with silver ammo
+1, with incendiary ammo

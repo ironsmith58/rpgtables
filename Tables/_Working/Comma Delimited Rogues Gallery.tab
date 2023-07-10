@@ -1,0 +1,44 @@
+#
+# DCC THRENDIAN PC/NPC GENERATOR
+# for spitting out Comma Delimited for importation into a spreadsheet
+# so as to make Rogue's Galleries
+#
+# by Noah Stevens, June 2018
+
+# ------------------------------
+# Variables
+# ------------------------------
+%STR%,0
+%AGI%,0
+%STA%,0
+%PER%,0
+%INT%,0
+%LUK%,0
+
+
+# ------------------------------
+# Main
+# ------------------------------
+:Start
+1,[GenStats][DisplayCharacter]
+
+:GenStats
+1,[GenAbilityScores]
+
+;DisplayCharacter
+1,[Dickensian Names.Start],[Races of Thrend.Start],%STR%,%AGI%,%STA%,%PER%,%INT%,%LUK%,[NMS_Occupations.Start],[Gothic Problems.Start]
+1,[Dickensian Names.Start],[Races of Thrend.Start],%STR%,%AGI%,%STA%,%PER%,%INT%,%LUK%,[NMS_Occupations.Start],[NMS_Quirks.Start]
+
+# ------------------------------
+# Ability Score Generation
+# ------------------------------
+:GenAbilityScores
+1,|STR=[RollScore]|
+_|AGI=[RollScore]|
+_|STA=[RollScore]|
+_|PER=[RollScore]|
+_|INT=[RollScore]|
+_|LUK=[RollScore]|
+
+:RollScore
+1,{Dice~4d4+2}

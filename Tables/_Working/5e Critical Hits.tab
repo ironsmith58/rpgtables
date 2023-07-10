@@ -1,0 +1,32 @@
+# 5e Critical Hits
+#
+# Copyright 2014 Steve Wilde
+#
+#----------------------------------
+:Start
+1,<FONT FACE="Arial">[CritHit1] 
+
+;CritHit1
+5,A pPalpable Hit. You get max damage to your hit, but no doubling this time around. Sorry.
+40,Critical Hit! Double Damage!
+10,Nasty Slice! Roll Double Damage, but reroll all 1s and 2s.
+8,Dextrous Move! Free trip attempt (as a bonus action) or Double Damage - your choice.
+10,Amazing Hit! You get your max damage from your first damage die, then roll your damage die again. Add your bonuses to this total.
+8,Excellent Hit! Max Double Damage possible! All adjacent Opponents gain an Opportunity Attack on the creature you struck.  
+8,Excellent Hit! Max Double Damage possible, and you gain advantage on the same creature next round. 
+10,You have out-manoeuvred your opponent. You gain advantage on your next attack against him. Also apply your double damage now, as normal.
+8,Incredible Hit! Roll your damage dice, add all of your bonuses first, THEN Double it!!
+8,Stunning hit! Apply double damage as normal, then gain an additional attack as a bonus as a reaction, if you have not used your reaction this round.
+8,Intuitive hit! You have advantage on both of your Double Damage dice.
+8,Distracting Injury! Roll Double Damage as normal. Your opponent now has Disadvantage due to distraction on all rolls for {Dice~1d6} rounds.
+4,Amazing Hit! Triple Damage!!! (If you already get Triple Damage, then you get Quadruple Damage instead)
+5,Inspiring Stroke! All allies within {Dice~1d3}0 feet gain 1d6 Inspiration. Also, Double Damage.
+10,This happens to opponent - [5e SAWD.Start] Use Double Damage instead of this result, if not applicable or if you prefer.
+10,This happens to opponent - [5e SAWD.Start] All adjacent Opponents gain an Opportunity Attack on the creature struck. Or you can choose Double Damage instead, if not applicable or if you prefer. All adjacent opponents still gain Opportunity Attacks.
+10,Double damage, plus the creature attacked is forced back and Stumbles (perhaps falling); it must make a DEX check vs. DC{Dice~1d6+14} or fall prone.  You gain an Opportunity Attack on the creature struck.
+5,Creature Disarmed. Weapon falls {Dice~1d6} ft. away in {Dice~1d8} direction. All adjacent Opponents gain an Opportunity Attack on the creature struck.  Don't forget the double damage for the Critical being successful as well.
+4,Crippling Injury! Roll Double Damage as normal, but creature now at 1/2 Movment for {Dice~1d6} Rounds.
+2,Shield (or off hand) arm severed. {Dice~1d8} hp/round blood loss. All adjacent Opponents gain an Opportunity Attack on the creature struck. A Cure Wounds cast at 4th spell level or above is needed to stem the flow of blood from this wound.  A HEAL is needed to re-attach the arm, but only during the first 24 hours.  After that, a REGENERATION spell is needed. 
+2,Weapon (or Main Hand) arm severed. {Dice~1d8} hp/round blood loss. All adjacent Opponents gain an Opportunity Attack on the creature struck. A Cure Wounds cast at 4th spell level or above is needed to stem the flow of blood from this wound.  A HEAL is needed to re-attach the arm, but only during the first 24 hours.  After that, a REGENERATION spell is needed. 
+2,Major Wound; Bleeding at {Dice~1d8} hp/round, applied on creature's turn.  All adjacent Opponents gain an Opportunity Attack on the creature struck. A Cure Wounds cast at 4th spell level or above is needed to stem the flow of blood from this wound.  A HEAL is needed to repair the damage.  Until such a spell is cast, the wound remains (but 6 months of bedrest would do it).
+1,Mortal Wound; opponent goes instantly to 0 hp and must make first death save immediately.
